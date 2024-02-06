@@ -1,0 +1,18 @@
+{ 
+   "questions" : [
+
+    
+    {
+        "question": "איזה שחקן מופיע על הלוגו של ה-NBA ?",
+        "answers" : [{"text": "ג'רי וסט" ,  "isCorrect":true},
+                     {"text": "מייקל ג'ורדן" ,  "isCorrect":false},
+                     {"text": "מג'יק ג'ונסון" ,  "isCorrect":false},
+                     {"text": "לארי בירד" ,  "isCorrect":false}
+                    ]
+    }
+
+   ] 
+
+    
+}
+    

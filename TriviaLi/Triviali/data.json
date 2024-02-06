@@ -1,0 +1,5674 @@
+{
+  "questions": [
+    {
+      "question": " מי השחקן שזכה בהכי הרבה אליפויות מונדיאל ?",
+      "answers": [
+        {
+          "text": "פלה",
+          "isCorrect": true
+        },
+        {
+          "text": "דייגו מרדונה",
+          "isCorrect": false
+        },
+        {
+          "text": "קאפו",
+          "isCorrect": false
+        },
+        {
+          "text": "זינדין זידן",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " באיזו מדינה הומצאה הגלידה ?",
+      "answers": [
+        {
+          "text": "סין",
+          "isCorrect": true
+        },
+        {
+          "text": "ארה''ב",
+          "isCorrect": false
+        },
+        {
+          "text": "יפן",
+          "isCorrect": false
+        },
+        {
+          "text": "איטליה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " מי היה הנשיא הראשון של ישראל ?",
+      "answers": [
+        {
+          "text": "חיים ויצמן",
+          "isCorrect": true
+        },
+        {
+          "text": "גולדה מאיר",
+          "isCorrect": false
+        },
+        {
+          "text": "הרצל",
+          "isCorrect": false
+        },
+        {
+          "text": "דוד בן גוריון",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " מי צייר את המונה ליזה ?",
+      "answers": [
+        {
+          "text": "לאונרדו דה וינצ'י",
+          "isCorrect": true
+        },
+        {
+          "text": "וינסנט ואן גוך",
+          "isCorrect": false
+        },
+        {
+          "text": "מיכאלנג'לו",
+          "isCorrect": false
+        },
+        {
+          "text": "סלבדור דאלי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " במשך כמה ימים ולילות ירד המבול בתקופת נח ?",
+      "answers": [
+        {
+          "text": "40",
+          "isCorrect": true
+        },
+        {
+          "text": "10",
+          "isCorrect": false
+        },
+        {
+          "text": "20",
+          "isCorrect": false
+        },
+        {
+          "text": "30",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " 'השלם : 'אולי ____ אותי נחש אולי ____ אותי קרץ ?",
+      "answers": [
+        {
+          "text": "נחש, קרס",
+          "isCorrect": true
+        },
+        {
+          "text": "קרץ, נחש",
+          "isCorrect": false
+        },
+        {
+          "text": "קרץ, קרס",
+          "isCorrect": false
+        },
+        {
+          "text": "נחש, נחש",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "כמה צבעים יש בקשת בענן ?",
+      "answers": [
+        {
+          "text": "7",
+          "isCorrect": true
+        },
+        {
+          "text": "5",
+          "isCorrect": false
+        },
+        {
+          "text": "8",
+          "isCorrect": false
+        },
+        {
+          "text": "9",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "עפ''י ספר בראשית, באיזה יום ברא אלוקים את החיות ?",
+      "answers": [
+        {
+          "text": "חמישי",
+          "isCorrect": true
+        },
+        {
+          "text": "שלישי",
+          "isCorrect": false
+        },
+        {
+          "text": "רביעי",
+          "isCorrect": false
+        },
+        {
+          "text": "שישי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה סוג דג הוא נמו ?",
+      "answers": [
+        {
+          "text": "ליצן",
+          "isCorrect": true
+        },
+        {
+          "text": "דג זהב",
+          "isCorrect": false
+        },
+        {
+          "text": "טונה",
+          "isCorrect": false
+        },
+        {
+          "text": "תוכי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "'מה המשמעות של הפתגם 'עקב אכילס ?",
+      "answers": [
+        {
+          "text": "נקודת חולשה",
+          "isCorrect": true
+        },
+        {
+          "text": "נקודת חוזקה",
+          "isCorrect": false
+        },
+        {
+          "text": "יובש ברגליים",
+          "isCorrect": false
+        },
+        {
+          "text": "מחלה נפשית",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " מי היתה האישה הראשונה שכיהנה בתפקיד ראש הממשלה בישראל ?",
+      "answers": [
+        {
+          "text": "גולדה מאיר",
+          "isCorrect": true
+        },
+        {
+          "text": "שרה נתניהו",
+          "isCorrect": false
+        },
+        {
+          "text": "ציפי ליבני",
+          "isCorrect": false
+        },
+        {
+          "text": "חנה סנש",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " לאיזה ארץ יש צורה של מגף ?",
+      "answers": [
+        {
+          "text": "איטליה",
+          "isCorrect": true
+        },
+        {
+          "text": "ישראל",
+          "isCorrect": false
+        },
+        {
+          "text": "בולגריה",
+          "isCorrect": false
+        },
+        {
+          "text": "צרפת",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזו מדינה הייתה הראשונה להטיל פצצת אטום ?",
+      "answers": [
+        {
+          "text": "ארה''ב",
+          "isCorrect": true
+        },
+        {
+          "text": "אנגליה",
+          "isCorrect": false
+        },
+        {
+          "text": "רוסיה",
+          "isCorrect": false
+        },
+        {
+          "text": "יפן",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " 'באיזה סדרת סרטים ככבה דמות בשם 'מיסטר מיאגי ?",
+      "answers": [
+        {
+          "text": "קארטה קיד",
+          "isCorrect": true
+        },
+        {
+          "text": "שר הטבעות",
+          "isCorrect": false
+        },
+        {
+          "text": "הארי פוטר",
+          "isCorrect": false
+        },
+        {
+          "text": "מהיר ועצבני",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " 'באיזה עיר נמצאת אוניברסיטת 'בן גוריון ?",
+      "answers": [
+        {
+          "text": "באר שבע",
+          "isCorrect": true
+        },
+        {
+          "text": "חיפה",
+          "isCorrect": false
+        },
+        {
+          "text": "ירושלים",
+          "isCorrect": false
+        },
+        {
+          "text": "תל אביב",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " מהו כתב ברייל ?",
+      "answers": [
+        {
+          "text": "כתב ללקויי ראייה",
+          "isCorrect": true
+        },
+        {
+          "text": "כתב סתרים",
+          "isCorrect": false
+        },
+        {
+          "text": "כתב חרטומים",
+          "isCorrect": false
+        },
+        {
+          "text": "כתב חדשות לענייני ברייל",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " בכל הזמנים NBA מיהו הקלע המוביל בתולדות ה ?",
+      "answers": [
+        {
+          "text": "לברון ג'יימס",
+          "isCorrect": true
+        },
+        {
+          "text": "מייקל ג'ורדן",
+          "isCorrect": false
+        },
+        {
+          "text": "קארים עבדול ג'באר",
+          "isCorrect": false
+        },
+        {
+          "text": "סטפן קרי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " איזה מבין המועדונים הבאים יוסי בניון לא שיחק ?",
+      "answers": [
+        {
+          "text": "מנצ'סטר יונייטד",
+          "isCorrect": true
+        },
+        {
+          "text": "צ'לסי",
+          "isCorrect": false
+        },
+        {
+          "text": "ארסנל",
+          "isCorrect": false
+        },
+        {
+          "text": "ליברפול",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " איזו חיה מופיע על הסמל של חברת רכבים למבורגיני ?",
+      "answers": [
+        {
+          "text": "שור",
+          "isCorrect": true
+        },
+        {
+          "text": "סוס",
+          "isCorrect": false
+        },
+        {
+          "text": "נמר",
+          "isCorrect": false
+        },
+        {
+          "text": "עקרב",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " מהי בירת ארה''ב ?",
+      "answers": [
+        {
+          "text": "וושינגטון",
+          "isCorrect": true
+        },
+        {
+          "text": "ניו יורק",
+          "isCorrect": false
+        },
+        {
+          "text": "לוס אנג'לס",
+          "isCorrect": false
+        },
+        {
+          "text": "שיקגו",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי מבין הבאים כהן בתור הרב הראשי של ישראל ?",
+      "answers": [
+        {
+          "text": "עובדיה יוסף",
+          "isCorrect": true
+        },
+        {
+          "text": "הבבא סאלי",
+          "isCorrect": false
+        },
+        {
+          "text": "ישעיהו פינטו",
+          "isCorrect": false
+        },
+        {
+          "text": "מאיר אליהו",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה מבין החברות הבאות נוסדה קודם ?",
+      "answers": [
+        {
+          "text": "מייקרוסופט",
+          "isCorrect": true
+        },
+        {
+          "text": "פייסבוק",
+          "isCorrect": false
+        },
+        {
+          "text": "טוויטר",
+          "isCorrect": false
+        },
+        {
+          "text": "אפל",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה מבין השירים הבאים זכה בארוויזיון ?",
+      "answers": [
+        {
+          "text": "טוי",
+          "isCorrect": true
+        },
+        {
+          "text": "יוניקורן",
+          "isCorrect": false
+        },
+        {
+          "text": "זמן",
+          "isCorrect": false
+        },
+        {
+          "text": "גולדן בוי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי הייתה אימם של עשו ויעקב ?",
+      "answers": [
+        {
+          "text": "רבקה",
+          "isCorrect": true
+        },
+        {
+          "text": "לאה",
+          "isCorrect": false
+        },
+        {
+          "text": "רחל",
+          "isCorrect": false
+        },
+        {
+          "text": "שרה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזו שנה התפרקה ברית המועצות ?",
+      "answers": [
+        {
+          "text": "1991",
+          "isCorrect": true
+        },
+        {
+          "text": "1992",
+          "isCorrect": false
+        },
+        {
+          "text": "1990",
+          "isCorrect": false
+        },
+        {
+          "text": "1989",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזו שנה התפרקה להקת הביטלס ?",
+      "answers": [
+        {
+          "text": "1970",
+          "isCorrect": true
+        },
+        {
+          "text": "1969",
+          "isCorrect": false
+        },
+        {
+          "text": "1971",
+          "isCorrect": false
+        },
+        {
+          "text": "1968",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה מבין המתאגרפים הבאים לא הפסיד בקרב רשמי ?",
+      "answers": [
+        {
+          "text": "פלוייד מייוותר",
+          "isCorrect": true
+        },
+        {
+          "text": "קונור מקגרגור",
+          "isCorrect": false
+        },
+        {
+          "text": "מייק טייסון",
+          "isCorrect": false
+        },
+        {
+          "text": "מוחמד עלי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " מי מבין הלהקות הבאות אינה ישראלית ?",
+      "answers": [
+        {
+          "text": "אבבא",
+          "isCorrect": true
+        },
+        {
+          "text": "טיפקס",
+          "isCorrect": false
+        },
+        {
+          "text": "כוורת",
+          "isCorrect": false
+        },
+        {
+          "text": "גזוז",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " מי מבין הבאים לא גילם את ספיידרמן ?",
+      "answers": [
+        {
+          "text": "ברוס ויין",
+          "isCorrect": true
+        },
+        {
+          "text": "אנדרו גארפילד",
+          "isCorrect": false
+        },
+        {
+          "text": "טום הולנד",
+          "isCorrect": false
+        },
+        {
+          "text": "טובי מגווייר",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "לא דובים ולא ____ ?",
+      "answers": [
+        {
+          "text": "יער",
+          "isCorrect": true
+        },
+        {
+          "text": "דבש",
+          "isCorrect": false
+        },
+        {
+          "text": "כלבים",
+          "isCorrect": false
+        },
+        {
+          "text": "ציפורים",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " איזה מבין הסרטים הבאים אינו סרט של דיסני ?",
+      "answers": [
+        {
+          "text": "שרק",
+          "isCorrect": true
+        },
+        {
+          "text": "מפלצות בע''מ",
+          "isCorrect": false
+        },
+        {
+          "text": "מולאן",
+          "isCorrect": false
+        },
+        {
+          "text": "מלך האריות",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " איזה מבין הנשיאים הבאים מופיע על הר ראשמור ?",
+      "answers": [
+        {
+          "text": "תומאס ג'פרסון",
+          "isCorrect": true
+        },
+        {
+          "text": "ברק אובמה",
+          "isCorrect": false
+        },
+        {
+          "text": "ג'ון קנדי",
+          "isCorrect": false
+        },
+        {
+          "text": "ג'ורג' בוש",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " כמה פעמים זכתה הפועל באר שבע בליגת העל ?",
+      "answers": [
+        {
+          "text": "5",
+          "isCorrect": true
+        },
+        {
+          "text": "4",
+          "isCorrect": false
+        },
+        {
+          "text": "3",
+          "isCorrect": false
+        },
+        {
+          "text": "2",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " מי הלחין את 'מפצח האגוזים' ?",
+      "answers": [
+        {
+          "text": "צ'ייקובסקי",
+          "isCorrect": true
+        },
+        {
+          "text": "בטהובן",
+          "isCorrect": false
+        },
+        {
+          "text": "מוצרט",
+          "isCorrect": false
+        },
+        {
+          "text": "באך",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " באיזו מדינה נולד הברון רוטשילד ?",
+      "answers": [
+        {
+          "text": "צרפת",
+          "isCorrect": true
+        },
+        {
+          "text": "אנגליה",
+          "isCorrect": false
+        },
+        {
+          "text": "ארה''ב",
+          "isCorrect": false
+        },
+        {
+          "text": "גרמניה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " מיהו מלך השערים של ה'פרמייר ליג' בכל הזמנים ?",
+      "answers": [
+        {
+          "text": "אלן שירר",
+          "isCorrect": true
+        },
+        {
+          "text": "ווין רוני",
+          "isCorrect": false
+        },
+        {
+          "text": "תיירי הנרי",
+          "isCorrect": false
+        },
+        {
+          "text": "פרנק למפארד",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "יחד עם נשר איזו חיה נוספת מופיעה על הדגל של מקסיקו ?",
+      "answers": [
+        {
+          "text": "נחש",
+          "isCorrect": true
+        },
+        {
+          "text": "אריה",
+          "isCorrect": false
+        },
+        {
+          "text": "זאב",
+          "isCorrect": false
+        },
+        {
+          "text": "עקרב",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזו מדינה היא יצרנית רכבי דאצ'יה ?",
+      "answers": [
+        {
+          "text": "רומניה",
+          "isCorrect": true
+        },
+        {
+          "text": "צרפת",
+          "isCorrect": false
+        },
+        {
+          "text": "הונגריה",
+          "isCorrect": false
+        },
+        {
+          "text": "אוסטריה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזו עיר נבנתה הטיטניק ?",
+      "answers": [
+        {
+          "text": "בלפסט",
+          "isCorrect": true
+        },
+        {
+          "text": "אדינבורו",
+          "isCorrect": false
+        },
+        {
+          "text": "לסטר",
+          "isCorrect": false
+        },
+        {
+          "text": "לונדון",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " מהו כוכב הלכת הקטן ביותר במערכת השמש ?",
+      "answers": [
+        {
+          "text": "כוכב חמה",
+          "isCorrect": true
+        },
+        {
+          "text": "נוגה",
+          "isCorrect": false
+        },
+        {
+          "text": "צדק",
+          "isCorrect": false
+        },
+        {
+          "text": "שבתאי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " מהי העצם הגדולה ביותר בגוף האדם ?",
+      "answers": [
+        {
+          "text": "עצם הירך",
+          "isCorrect": true
+        },
+        {
+          "text": "עצם החזה",
+          "isCorrect": false
+        },
+        {
+          "text": "עצם הברך",
+          "isCorrect": false
+        },
+        {
+          "text": "עצם הגולגולת",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " מהו שם המרק הספרדי שמוגש קר ?",
+      "answers": [
+        {
+          "text": "גספאצ'ו",
+          "isCorrect": true
+        },
+        {
+          "text": "מרק רגל",
+          "isCorrect": false
+        },
+        {
+          "text": "חרירה",
+          "isCorrect": false
+        },
+        {
+          "text": "בורשט",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " מיהו נשיא ארה''ב האחרון שכיהן יותר משתי קדנציות ?",
+      "answers": [
+        {
+          "text": "פרנקלין רוזוולט",
+          "isCorrect": true
+        },
+        {
+          "text": "הארי טרומן",
+          "isCorrect": false
+        },
+        {
+          "text": "ג'ון קנדי",
+          "isCorrect": false
+        },
+        {
+          "text": "רונלד רייגן",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "בשיר 'שבט אחים ואחיות' מי מהבאים לא השתתף ?",
+      "answers": [
+        {
+          "text": "בנייה ברבי",
+          "isCorrect": true
+        },
+        {
+          "text": "דודו אהרון",
+          "isCorrect": false
+        },
+        {
+          "text": "רוני דלומי",
+          "isCorrect": false
+        },
+        {
+          "text": "דני רובס",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו שמו האמצעי של תומאס אדיסון ?",
+      "answers": [
+        {
+          "text": "אלווה",
+          "isCorrect": true
+        },
+        {
+          "text": "ג'ון",
+          "isCorrect": false
+        },
+        {
+          "text": "אלברט",
+          "isCorrect": false
+        },
+        {
+          "text": "רוקטה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " לך אל הנמלה עצל ראה דרכיה ____ ?",
+      "answers": [
+        {
+          "text": "וחכם",
+          "isCorrect": true
+        },
+        {
+          "text": "וגאון",
+          "isCorrect": false
+        },
+        {
+          "text": "ומהר",
+          "isCorrect": false
+        },
+        {
+          "text": "וצרצר",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזו עיר נולד ישו ?",
+      "answers": [
+        {
+          "text": "בית לחם",
+          "isCorrect": true
+        },
+        {
+          "text": "ירושלים",
+          "isCorrect": false
+        },
+        {
+          "text": "בית שמש",
+          "isCorrect": false
+        },
+        {
+          "text": "בית שאן",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהי בירת ווילס ?",
+      "answers": [
+        {
+          "text": "קרדיף",
+          "isCorrect": true
+        },
+        {
+          "text": "רייקיאוויק",
+          "isCorrect": false
+        },
+        {
+          "text": "דרבי",
+          "isCorrect": false
+        },
+        {
+          "text": "סטוקהולם",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מה נאגר בדבשת של הגמל ?",
+      "answers": [
+        {
+          "text": "שומן",
+          "isCorrect": true
+        },
+        {
+          "text": "מים",
+          "isCorrect": false
+        },
+        {
+          "text": "אוכל",
+          "isCorrect": false
+        },
+        {
+          "text": "עובר",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מה המדינה המכילה הכי הרבה דתות ?",
+      "answers": [
+        {
+          "text": "סינגפור",
+          "isCorrect": true
+        },
+        {
+          "text": "תאילנד",
+          "isCorrect": false
+        },
+        {
+          "text": "ארה''ב",
+          "isCorrect": false
+        },
+        {
+          "text": "ניו זילנד",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו צבע הבתים הכי נפוץ ?",
+      "answers": [
+        {
+          "text": "לבן",
+          "isCorrect": true
+        },
+        {
+          "text": "חום",
+          "isCorrect": false
+        },
+        {
+          "text": "שחור",
+          "isCorrect": false
+        },
+        {
+          "text": "אפור",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזו מדינה המציאה ערפדים ?",
+      "answers": [
+        {
+          "text": "בולגריה",
+          "isCorrect": true
+        },
+        {
+          "text": "רומניה",
+          "isCorrect": false
+        },
+        {
+          "text": "אסטוניה",
+          "isCorrect": false
+        },
+        {
+          "text": "מולדובה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזו מדינה המציאה את ההמבורגר ?",
+      "answers": [
+        {
+          "text": "גרמניה",
+          "isCorrect": true
+        },
+        {
+          "text": "ארה''ב",
+          "isCorrect": false
+        },
+        {
+          "text": "איטליה",
+          "isCorrect": false
+        },
+        {
+          "text": "טורקיה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהי האימפריה הכי גדולה אי פעם ?",
+      "answers": [
+        {
+          "text": "בריטית",
+          "isCorrect": true
+        },
+        {
+          "text": "עותמאנית",
+          "isCorrect": false
+        },
+        {
+          "text": "רומית",
+          "isCorrect": false
+        },
+        {
+          "text": "מונגולית",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "כמה חודשים נמשך ההריון הארוך ביותר ?",
+      "answers": [
+        {
+          "text": "12",
+          "isCorrect": true
+        },
+        {
+          "text": "10",
+          "isCorrect": false
+        },
+        {
+          "text": "11",
+          "isCorrect": false
+        },
+        {
+          "text": "13",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו הצעצוע הנמכר ביותר ?",
+      "answers": [
+        {
+          "text": "קוביה הונגרית",
+          "isCorrect": true
+        },
+        {
+          "text": "יו-יו",
+          "isCorrect": false
+        },
+        {
+          "text": "ברבי",
+          "isCorrect": false
+        },
+        {
+          "text": "לגו",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי הייתה המדינה הראשונה שבחרה באישה להיות המנהיגה שלה ?",
+      "answers": [
+        {
+          "text": "סרי לנקה",
+          "isCorrect": true
+        },
+        {
+          "text": "אוסטרליה",
+          "isCorrect": false
+        },
+        {
+          "text": "ניגריה",
+          "isCorrect": false
+        },
+        {
+          "text": "זימבבואה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו הירק הראשון שבני אדם החלו לגדל ?",
+      "answers": [
+        {
+          "text": "אפונה",
+          "isCorrect": true
+        },
+        {
+          "text": "תירס",
+          "isCorrect": false
+        },
+        {
+          "text": "בצל",
+          "isCorrect": false
+        },
+        {
+          "text": "פלפל",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהי השפה הכי קדומה ?",
+      "answers": [
+        {
+          "text": "סומרית",
+          "isCorrect": true
+        },
+        {
+          "text": "עברית",
+          "isCorrect": false
+        },
+        {
+          "text": "לטינית",
+          "isCorrect": false
+        },
+        {
+          "text": "מצרית",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו הדג הכי נאכל בעולם ?",
+      "answers": [
+        {
+          "text": "טונה",
+          "isCorrect": true
+        },
+        {
+          "text": "סלמון",
+          "isCorrect": false
+        },
+        {
+          "text": "דניס",
+          "isCorrect": false
+        },
+        {
+          "text": "נסיכת הנילוס",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו ז'אנר הסרטים הכי רווחי ?",
+      "answers": [
+        {
+          "text": "אימה",
+          "isCorrect": true
+        },
+        {
+          "text": "קומדיה",
+          "isCorrect": false
+        },
+        {
+          "text": "פעולה",
+          "isCorrect": false
+        },
+        {
+          "text": "הרפתקאה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "לאיזה מבין הפירות הבאים קיים הכי הרבה סוכר ?",
+      "answers": [
+        {
+          "text": "מנגו",
+          "isCorrect": true
+        },
+        {
+          "text": "אבטיח",
+          "isCorrect": false
+        },
+        {
+          "text": "לימון",
+          "isCorrect": false
+        },
+        {
+          "text": "תות",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזו מלחמה של ארה''ב נמשכה הכי הרבה זמן ?",
+      "answers": [
+        {
+          "text": "אפגניסטן",
+          "isCorrect": true
+        },
+        {
+          "text": "עולם השנייה",
+          "isCorrect": false
+        },
+        {
+          "text": "אזרחים",
+          "isCorrect": false
+        },
+        {
+          "text": "וייטנאם",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזה פרי קיים הכי הרבה מים ?",
+      "answers": [
+        {
+          "text": "עגבנייה",
+          "isCorrect": true
+        },
+        {
+          "text": "אבטיח",
+          "isCorrect": false
+        },
+        {
+          "text": "אננס",
+          "isCorrect": false
+        },
+        {
+          "text": "מלון",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "כמה חודשים לוקח להגיע למאדים ?",
+      "answers": [
+        {
+          "text": "7",
+          "isCorrect": true
+        },
+        {
+          "text": "6",
+          "isCorrect": false
+        },
+        {
+          "text": "5",
+          "isCorrect": false
+        },
+        {
+          "text": "4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מאיפה בדרך כלל פורצים הגנבים לבתים ?",
+      "answers": [
+        {
+          "text": "דלת כניסה",
+          "isCorrect": true
+        },
+        {
+          "text": "חלון",
+          "isCorrect": false
+        },
+        {
+          "text": "גג",
+          "isCorrect": false
+        },
+        {
+          "text": "דלת אחורית",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזו מדינה המציאה את דרקונים ?",
+      "answers": [
+        {
+          "text": "סין",
+          "isCorrect": true
+        },
+        {
+          "text": "יפן",
+          "isCorrect": false
+        },
+        {
+          "text": "יוון",
+          "isCorrect": false
+        },
+        {
+          "text": "בריטניה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזו מדינה יש הכי פחות אנשים שסובלים מהשמנה ?",
+      "answers": [
+        {
+          "text": "וויטנאם",
+          "isCorrect": true
+        },
+        {
+          "text": "סין",
+          "isCorrect": false
+        },
+        {
+          "text": "יפן",
+          "isCorrect": false
+        },
+        {
+          "text": "תאילנד",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו המאכל הכי מזין בעולם ?",
+      "answers": [
+        {
+          "text": "סלמון",
+          "isCorrect": true
+        },
+        {
+          "text": "אורז",
+          "isCorrect": false
+        },
+        {
+          "text": "ברוקולי",
+          "isCorrect": false
+        },
+        {
+          "text": "תרד",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזו חייה יכולה לשרוד הכי הרבה בלי אוכל ?",
+      "answers": [
+        {
+          "text": "דובוני מים",
+          "isCorrect": true
+        },
+        {
+          "text": "תולעת",
+          "isCorrect": false
+        },
+        {
+          "text": "גמל",
+          "isCorrect": false
+        },
+        {
+          "text": "קרוקודיל",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "כמה דולרים עלתה החתונה הכי יקרה אי פעם ?",
+      "answers": [
+        {
+          "text": "58,000,000",
+          "isCorrect": true
+        },
+        {
+          "text": "12,000,000",
+          "isCorrect": false
+        },
+        {
+          "text": "23,000,000",
+          "isCorrect": false
+        },
+        {
+          "text": "37,000,000",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "לפי המיתולוגיה היוונית, מי החזיק על כתפיו את העולם ?",
+      "answers": [
+        {
+          "text": "אטלס",
+          "isCorrect": true
+        },
+        {
+          "text": "הדס",
+          "isCorrect": false
+        },
+        {
+          "text": "הרקולס",
+          "isCorrect": false
+        },
+        {
+          "text": "קרונוס",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה דמות ב'הארי פוטר' רצחה את 'דמבלדור' ?",
+      "answers": [
+        {
+          "text": "סוורוס סנייפ",
+          "isCorrect": true
+        },
+        {
+          "text": "סיריוס בלק",
+          "isCorrect": false
+        },
+        {
+          "text": "דראקו מאלפוי",
+          "isCorrect": false
+        },
+        {
+          "text": "וולדמורט",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "לאיזה חברת רכבים שייכים הדגמים מורצ'ייאגו ו-גאיארדו ?",
+      "answers": [
+        {
+          "text": "למבורגיני",
+          "isCorrect": true
+        },
+        {
+          "text": "קוניגסג",
+          "isCorrect": false
+        },
+        {
+          "text": "פרארי",
+          "isCorrect": false
+        },
+        {
+          "text": "מרצדס",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי מהבאות גילמה את הדמות בסרט של וונדר וומן ?",
+      "answers": [
+        {
+          "text": "גל גדות",
+          "isCorrect": true
+        },
+        {
+          "text": "אנג'לינה ג'ולי",
+          "isCorrect": false
+        },
+        {
+          "text": "ג'ניפר לופז",
+          "isCorrect": false
+        },
+        {
+          "text": "ג'ניפר אניסטון",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי מהבאים לא הנחה בערוץ הילדים ?",
+      "answers": [
+        {
+          "text": "עידו מוסרי",
+          "isCorrect": true
+        },
+        {
+          "text": "ירון לונדון",
+          "isCorrect": false
+        },
+        {
+          "text": "גיא פינס",
+          "isCorrect": false
+        },
+        {
+          "text": "יעל בר זוהר",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מיהו אבי הפסיכואנליזה ?",
+      "answers": [
+        {
+          "text": "פרויד",
+          "isCorrect": true
+        },
+        {
+          "text": "איינשטיין",
+          "isCorrect": false
+        },
+        {
+          "text": "אדיפוס",
+          "isCorrect": false
+        },
+        {
+          "text": "קושי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "? 2 x 2 + 3 x 2",
+      "answers": [
+        {
+          "text": "10",
+          "isCorrect": true
+        },
+        {
+          "text": "14",
+          "isCorrect": false
+        },
+        {
+          "text": "20",
+          "isCorrect": false
+        },
+        {
+          "text": "16",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהי צבעה של אבן הברקת ?",
+      "answers": [
+        {
+          "text": "ירוק",
+          "isCorrect": true
+        },
+        {
+          "text": "כחול",
+          "isCorrect": false
+        },
+        {
+          "text": "פוקסיה",
+          "isCorrect": false
+        },
+        {
+          "text": "אדום",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "כמה כוכבים יש בדגל של האיחוד האירופי ?",
+      "answers": [
+        {
+          "text": "12",
+          "isCorrect": true
+        },
+        {
+          "text": "10",
+          "isCorrect": false
+        },
+        {
+          "text": "14",
+          "isCorrect": false
+        },
+        {
+          "text": "16",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מה הנהר הכי ארוך בעולם ?",
+      "answers": [
+        {
+          "text": "נילוס",
+          "isCorrect": true
+        },
+        {
+          "text": "אמזונס",
+          "isCorrect": false
+        },
+        {
+          "text": "יאנגצה",
+          "isCorrect": false
+        },
+        {
+          "text": "אמור",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזו שנה נוסדה חברת נייק ?",
+      "answers": [
+        {
+          "text": "1971",
+          "isCorrect": true
+        },
+        {
+          "text": "1972",
+          "isCorrect": false
+        },
+        {
+          "text": "1976",
+          "isCorrect": false
+        },
+        {
+          "text": "1981",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו המשקה הכי נצרך בעולם מלבד למים ?",
+      "answers": [
+        {
+          "text": "תה",
+          "isCorrect": true
+        },
+        {
+          "text": "קפה",
+          "isCorrect": false
+        },
+        {
+          "text": "קולה",
+          "isCorrect": false
+        },
+        {
+          "text": "רדבול",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזה כוכב יש הכי הרבה כוח כבידה ?",
+      "answers": [
+        {
+          "text": "צדק",
+          "isCorrect": true
+        },
+        {
+          "text": "נוגה",
+          "isCorrect": false
+        },
+        {
+          "text": "מאדים",
+          "isCorrect": false
+        },
+        {
+          "text": "נפטון",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה סופר המציא את הבלש הבלגי 'הרקול פוארו' ?",
+      "answers": [
+        {
+          "text": "אגתה כריסטי",
+          "isCorrect": true
+        },
+        {
+          "text": "שרלוק הולמס",
+          "isCorrect": false
+        },
+        {
+          "text": "ארתור קונאן דויל",
+          "isCorrect": false
+        },
+        {
+          "text": "ג'ק ריצ'ר",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזו שנה יצא האייפון הראשון ?",
+      "answers": [
+        {
+          "text": "2007",
+          "isCorrect": true
+        },
+        {
+          "text": "2008",
+          "isCorrect": false
+        },
+        {
+          "text": "2006",
+          "isCorrect": false
+        },
+        {
+          "text": "2009",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "כמה עצמות יש לכריש ?",
+      "answers": [
+        {
+          "text": "0",
+          "isCorrect": true
+        },
+        {
+          "text": "7",
+          "isCorrect": false
+        },
+        {
+          "text": "10",
+          "isCorrect": false
+        },
+        {
+          "text": "2",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזו מדינה נולד צ'ה גווארה ?",
+      "answers": [
+        {
+          "text": "ארגנטינה",
+          "isCorrect": true
+        },
+        {
+          "text": "ברזיל",
+          "isCorrect": false
+        },
+        {
+          "text": "קובה",
+          "isCorrect": false
+        },
+        {
+          "text": "צ'ילה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהי המדינה הראשונה שהביאה לנשים את הזכות להצביע ?",
+      "answers": [
+        {
+          "text": "ניו זינלנד",
+          "isCorrect": true
+        },
+        {
+          "text": "סרי לנקה",
+          "isCorrect": false
+        },
+        {
+          "text": "בריטניה",
+          "isCorrect": false
+        },
+        {
+          "text": "ארה''ב",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזו שנה יצא השיר ''צליל מיתר'' של אייל גולן ?",
+      "answers": [
+        {
+          "text": "2001",
+          "isCorrect": true
+        },
+        {
+          "text": "2003",
+          "isCorrect": false
+        },
+        {
+          "text": "2006",
+          "isCorrect": false
+        },
+        {
+          "text": "2011",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "כמה דקות יש בשבוע ?",
+      "answers": [
+        {
+          "text": "10,080",
+          "isCorrect": true
+        },
+        {
+          "text": "9,900",
+          "isCorrect": false
+        },
+        {
+          "text": "12,272",
+          "isCorrect": false
+        },
+        {
+          "text": "6,000",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי היה הקיסר האחרון של האימפריה הרוסית ?",
+      "answers": [
+        {
+          "text": "ניקולאי השני",
+          "isCorrect": true
+        },
+        {
+          "text": "אלכסנדר מוקדון",
+          "isCorrect": false
+        },
+        {
+          "text": "סטאלין",
+          "isCorrect": false
+        },
+        {
+          "text": "איוון השלישי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "במשחק המחשב 'סופר מריו' : מה הקשר בין סופר מריו ללואיג'י ?",
+      "answers": [
+        {
+          "text": "אחים",
+          "isCorrect": true
+        },
+        {
+          "text": "חברים",
+          "isCorrect": false
+        },
+        {
+          "text": "בני דודים",
+          "isCorrect": false
+        },
+        {
+          "text": "יריבים",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מה משמעות הביטוי 'פנג שווי' בסינית ?",
+      "answers": [
+        {
+          "text": "רוח ומים",
+          "isCorrect": true
+        },
+        {
+          "text": "אדמה ומים",
+          "isCorrect": false
+        },
+        {
+          "text": "מים ואש",
+          "isCorrect": false
+        },
+        {
+          "text": "אויר ואש",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "לאיזו מדינה מבין הבאות יש דגל לאומי עם שמש במרכזו ?",
+      "answers": [
+        {
+          "text": "ארגנטינה",
+          "isCorrect": true
+        },
+        {
+          "text": "אוסטרליה",
+          "isCorrect": false
+        },
+        {
+          "text": "שוודיה",
+          "isCorrect": false
+        },
+        {
+          "text": "ברזיל",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהי בירת קנדה ?",
+      "answers": [
+        {
+          "text": "אוטווה",
+          "isCorrect": true
+        },
+        {
+          "text": "טורונטו",
+          "isCorrect": false
+        },
+        {
+          "text": "ונקובר",
+          "isCorrect": false
+        },
+        {
+          "text": "מוטריאול",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "היכן נמצא המפל הכי גבוה בעולם ?",
+      "answers": [
+        {
+          "text": "וונצואלה",
+          "isCorrect": true
+        },
+        {
+          "text": "קולומביה",
+          "isCorrect": false
+        },
+        {
+          "text": "פרו",
+          "isCorrect": false
+        },
+        {
+          "text": "צ'ילה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "כמה לבבות יש לתמנון ?",
+      "answers": [
+        {
+          "text": "3",
+          "isCorrect": true
+        },
+        {
+          "text": "5",
+          "isCorrect": false
+        },
+        {
+          "text": "8",
+          "isCorrect": false
+        },
+        {
+          "text": "1",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזו חברת רכבים מיצרת את הדגם 911 ?",
+      "answers": [
+        {
+          "text": "פורשה",
+          "isCorrect": true
+        },
+        {
+          "text": "פרארי",
+          "isCorrect": false
+        },
+        {
+          "text": "בוגאטי",
+          "isCorrect": false
+        },
+        {
+          "text": "לבמורגיני",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזו מדינה זכתה בהכי הרבה מונדיאלים ?",
+      "answers": [
+        {
+          "text": "ברזיל",
+          "isCorrect": true
+        },
+        {
+          "text": "ארגנטינה",
+          "isCorrect": false
+        },
+        {
+          "text": "צרפת",
+          "isCorrect": false
+        },
+        {
+          "text": "גרמניה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו האיבר היחיד בגוף שאינו גדל מלידה ?",
+      "answers": [
+        {
+          "text": "עיניים",
+          "isCorrect": true
+        },
+        {
+          "text": "אוזניים",
+          "isCorrect": false
+        },
+        {
+          "text": "ריסים",
+          "isCorrect": false
+        },
+        {
+          "text": "עצם הבריח",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "אקרופוביה הוא פחד מ ?",
+      "answers": [
+        {
+          "text": "גבהים",
+          "isCorrect": true
+        },
+        {
+          "text": "מקומות סגורים",
+          "isCorrect": false
+        },
+        {
+          "text": "עכבישים",
+          "isCorrect": false
+        },
+        {
+          "text": "נחשים",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "היכן נמצא השריר הכי חזק בגוף האדם ?",
+      "answers": [
+        {
+          "text": "לסת",
+          "isCorrect": true
+        },
+        {
+          "text": "ירך",
+          "isCorrect": false
+        },
+        {
+          "text": "גב",
+          "isCorrect": false
+        },
+        {
+          "text": "בית החזה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזו שנה הפך האינטרנט זמין לציבור ?",
+      "answers": [
+        {
+          "text": "1993",
+          "isCorrect": true
+        },
+        {
+          "text": "1989",
+          "isCorrect": false
+        },
+        {
+          "text": "1976",
+          "isCorrect": false
+        },
+        {
+          "text": "2000",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזו שנה התנקשו בנשיא ארה''ב ג'ון קנדי ?",
+      "answers": [
+        {
+          "text": "1963",
+          "isCorrect": true
+        },
+        {
+          "text": "1960",
+          "isCorrect": false
+        },
+        {
+          "text": "1959",
+          "isCorrect": false
+        },
+        {
+          "text": "1965",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזו יבשת מצוייה החייה יגואר ?",
+      "answers": [
+        {
+          "text": "אמריקה",
+          "isCorrect": true
+        },
+        {
+          "text": "אפריקה",
+          "isCorrect": false
+        },
+        {
+          "text": "אוסטרליה",
+          "isCorrect": false
+        },
+        {
+          "text": "אסיה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה שיר בוצע ע''י להקה במקור ?",
+      "answers": [
+        {
+          "text": "אלף כבאיים",
+          "isCorrect": true
+        },
+        {
+          "text": "שני משוגעים",
+          "isCorrect": false
+        },
+        {
+          "text": "צליל מיתר",
+          "isCorrect": false
+        },
+        {
+          "text": "אלינור",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "במה מראשי התיבות הבאים לא מופיעה המילה ישראל ?",
+      "answers": [
+        {
+          "text": "בית''ר",
+          "isCorrect": true
+        },
+        {
+          "text": "ניל''י",
+          "isCorrect": false
+        },
+        {
+          "text": "צה''ל",
+          "isCorrect": false
+        },
+        {
+          "text": "לח''י",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מה מופיע בתנ''ך מאוחר יותר ?",
+      "answers": [
+        {
+          "text": "שבירת לוחות הברית",
+          "isCorrect": true
+        },
+        {
+          "text": "חציית ים סוף",
+          "isCorrect": false
+        },
+        {
+          "text": "עקדת יצחק",
+          "isCorrect": false
+        },
+        {
+          "text": "המבול",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה נשיא עלה לשלטון מייד לאחר רצח קנדי ?",
+      "answers": [
+        {
+          "text": "לינדון ג'ונסון",
+          "isCorrect": true
+        },
+        {
+          "text": "רונלד רייגן",
+          "isCorrect": false
+        },
+        {
+          "text": "ריצ'רד ניקסון",
+          "isCorrect": false
+        },
+        {
+          "text": "ג'ורג' בוש האב",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזו קבוצת כדורגל נוסדה קודם ?",
+      "answers": [
+        {
+          "text": "מנצ'סטר סיטי",
+          "isCorrect": true
+        },
+        {
+          "text": "ברצלונה",
+          "isCorrect": false
+        },
+        {
+          "text": "יובנטוס",
+          "isCorrect": false
+        },
+        {
+          "text": "ריאל מדריד",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה שעון הומצא קודם ?",
+      "answers": [
+        {
+          "text": "שמש",
+          "isCorrect": true
+        },
+        {
+          "text": "קוקיה",
+          "isCorrect": false
+        },
+        {
+          "text": "אורלוגין",
+          "isCorrect": false
+        },
+        {
+          "text": "חכם",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי מבין הבאים סיים תואר ראשון באוניברסיטה ? ",
+      "answers": [
+        {
+          "text": "ג'ף בזוס",
+          "isCorrect": true
+        },
+        {
+          "text": "מרק צוקרברג",
+          "isCorrect": false
+        },
+        {
+          "text": "ביל גייטס",
+          "isCorrect": false
+        },
+        {
+          "text": "סטיב ג'ובס",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי מהבאים לא זכה בפרס נובל לשלום ?",
+      "answers": [
+        {
+          "text": "דונלד טראמפ",
+          "isCorrect": true
+        },
+        {
+          "text": "יאסר ערפאט",
+          "isCorrect": false
+        },
+        {
+          "text": "ברק אובמה",
+          "isCorrect": false
+        },
+        {
+          "text": "מנחם בגין",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מה לא מופיע בדגל של ברית המועצות ?",
+      "answers": [
+        {
+          "text": "חרב",
+          "isCorrect": true
+        },
+        {
+          "text": "פטיש",
+          "isCorrect": false
+        },
+        {
+          "text": "כוכב",
+          "isCorrect": false
+        },
+        {
+          "text": "מגל",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזה מבין הסרטים הבאים הדמות הראשית אינה מדברת ?",
+      "answers": [
+        {
+          "text": "דאמבו",
+          "isCorrect": true
+        },
+        {
+          "text": "פו הדב",
+          "isCorrect": false
+        },
+        {
+          "text": "טרזן",
+          "isCorrect": false
+        },
+        {
+          "text": "שרק",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מה אסור היה למכור 'בתקופת היובש' בארה''ב ?",
+      "answers": [
+        {
+          "text": "וויסקי",
+          "isCorrect": true
+        },
+        {
+          "text": "שוקו",
+          "isCorrect": false
+        },
+        {
+          "text": "קולה",
+          "isCorrect": false
+        },
+        {
+          "text": "מים",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה שיר לא כתבה לאה גולדברג ?",
+      "answers": [
+        {
+          "text": "כמו צמח בר",
+          "isCorrect": true
+        },
+        {
+          "text": "זה מחבר",
+          "isCorrect": false
+        },
+        {
+          "text": "משירי ארץ אהבתי",
+          "isCorrect": false
+        },
+        {
+          "text": "פזמון ליקינטון",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזו חברה לא נוסדה בשוודיה ?",
+      "answers": [
+        {
+          "text": "נסטלה",
+          "isCorrect": true
+        },
+        {
+          "text": "איקאה",
+          "isCorrect": false
+        },
+        {
+          "text": "ספוטיפיי",
+          "isCorrect": false
+        },
+        {
+          "text": "אריקסון",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מה קרה קודם ?",
+      "answers": [
+        {
+          "text": "מארי אנטואנט איבדה את ראשה",
+          "isCorrect": true
+        },
+        {
+          "text": "משה דיין איבד את עיינו",
+          "isCorrect": false
+        },
+        {
+          "text": " ואן-גוך איבד את אוזנו",
+          "isCorrect": false
+        },
+        {
+          "text": "טרומפלדור איבד את ידו",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "לאיזו סדרת טלוויזיה היו פחות עונות ?",
+      "answers": [
+        {
+          "text": "איך פגשתי את אמא",
+          "isCorrect": true
+        },
+        {
+          "text": "המפץ הגדול",
+          "isCorrect": false
+        },
+        {
+          "text": "שני גברים וחצי",
+          "isCorrect": false
+        },
+        {
+          "text": "חברים",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי מבין הבאים יותר מבוגר ?",
+      "answers": [
+        {
+          "text": "אוטווה",
+          "isCorrect": true
+        },
+        {
+          "text": "ג'ורג' בוש הבן",
+          "isCorrect": false
+        },
+        {
+          "text": "ביל קלינטון",
+          "isCorrect": false
+        },
+        {
+          "text": "דונאלד טראמפ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזו קבוצת כדורגל מגיעה מעיר בירה ?",
+      "answers": [
+        {
+          "text": "צ'לסי",
+          "isCorrect": true
+        },
+        {
+          "text": "יובנטוס",
+          "isCorrect": false
+        },
+        {
+          "text": "בשיקטש",
+          "isCorrect": false
+        },
+        {
+          "text": "בני יהודה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מה מופיע על המטבע הישראלי בעל הערך הגבוה ביותר ?",
+      "answers": [
+        {
+          "text": "עץ דקל",
+          "isCorrect": true
+        },
+        {
+          "text": "נבל",
+          "isCorrect": false
+        },
+        {
+          "text": "מנורה",
+          "isCorrect": false
+        },
+        {
+          "text": "שושן שחור",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": " מי שלט במדינתו יותר זמן ?",
+      "answers": [
+        {
+          "text": "מועמר קדאפי",
+          "isCorrect": true
+        },
+        {
+          "text": "יוסף סטלין",
+          "isCorrect": false
+        },
+        {
+          "text": "חאפז אל אסד",
+          "isCorrect": false
+        },
+        {
+          "text": "פרנסיסקו פרנקו",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איפה אין רכבל ?",
+      "answers": [
+        {
+          "text": "מכתש רמון",
+          "isCorrect": true
+        },
+        {
+          "text": "חיפה",
+          "isCorrect": false
+        },
+        {
+          "text": "מצדה",
+          "isCorrect": false
+        },
+        {
+          "text": "ראש הנקרה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה אי דרומי יותר ?",
+      "answers": [
+        {
+          "text": "ניו זילנד",
+          "isCorrect": true
+        },
+        {
+          "text": "איסלנד",
+          "isCorrect": false
+        },
+        {
+          "text": "אירלנד",
+          "isCorrect": false
+        },
+        {
+          "text": "גרינלנד",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מאיפה ישראל נסוגה קודם ?",
+      "answers": [
+        {
+          "text": "סיני",
+          "isCorrect": true
+        },
+        {
+          "text": "גוש קטיף",
+          "isCorrect": false
+        },
+        {
+          "text": "דרום לבנון",
+          "isCorrect": false
+        },
+        {
+          "text": "עזה ויריחו",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי מהבאים נולדו באותה מדינה ?",
+      "answers": [
+        {
+          "text": "חומייני וריטה",
+          "isCorrect": true
+        },
+        {
+          "text": "קדאפי ושפיטה",
+          "isCorrect": false
+        },
+        {
+          "text": "בן לאדן ומרגול",
+          "isCorrect": false
+        },
+        {
+          "text": "סדאם חוסין ואילנית לוי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהי העיר הראשונה בישראל בה הותקן רמזור ?",
+      "answers": [
+        {
+          "text": "חיפה",
+          "isCorrect": true
+        },
+        {
+          "text": "תל אביב",
+          "isCorrect": false
+        },
+        {
+          "text": "ירושלים",
+          "isCorrect": false
+        },
+        {
+          "text": "באר שבע",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה מבצע התרחש בישראל ?",
+      "answers": [
+        {
+          "text": "סבנה",
+          "isCorrect": true
+        },
+        {
+          "text": "אביב נעורים",
+          "isCorrect": false
+        },
+        {
+          "text": "יונתן",
+          "isCorrect": false
+        },
+        {
+          "text": "אופרה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי לא בן של רמטכ''ל ?",
+      "answers": [
+        {
+          "text": "עומרי שרון",
+          "isCorrect": true
+        },
+        {
+          "text": "עמר בר-לב",
+          "isCorrect": false
+        },
+        {
+          "text": "יובל רבין",
+          "isCorrect": false
+        },
+        {
+          "text": "אסי דיין",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי היה הנשיא האמריקאי הראשון שזכה בפרס נובל לשלום ?",
+      "answers": [
+        {
+          "text": "תיאודור רוזוולט",
+          "isCorrect": true
+        },
+        {
+          "text": "ברק אובמה",
+          "isCorrect": false
+        },
+        {
+          "text": "דוויט אייזנהאוור",
+          "isCorrect": false
+        },
+        {
+          "text": "מילרד פילמור",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו שמו האמיתי של דניס לויד ?",
+      "answers": [
+        {
+          "text": "ניר טיבור",
+          "isCorrect": true
+        },
+        {
+          "text": "דני צור",
+          "isCorrect": false
+        },
+        {
+          "text": "רועי הדר",
+          "isCorrect": false
+        },
+        {
+          "text": "ערן גולדמן",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי הראפר שהופיע בבת המצווה של נועה קירל ?",
+      "answers": [
+        {
+          "text": "איזי",
+          "isCorrect": true
+        },
+        {
+          "text": "עידו בי",
+          "isCorrect": false
+        },
+        {
+          "text": "סטטיק",
+          "isCorrect": false
+        },
+        {
+          "text": "עמרי 69 סגל",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "למה הוגשה תביעה ייצוגית נגד ההופעה של סיה בישראל ?",
+      "answers": [
+        {
+          "text": "ההופעה הייתה קצרה ולא אינטימית",
+          "isCorrect": true
+        },
+        {
+          "text": "לא ראו אותה במסכים",
+          "isCorrect": false
+        },
+        {
+          "text": "הקהל מאחור לא שמע את ההופעה",
+          "isCorrect": false
+        },
+        {
+          "text": "השיר 'שנדליר' לא היה חלק מהמופע",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מיהו האומן הכי מושמע ברדיו הישראלי בעשור האחרון ?",
+      "answers": [
+        {
+          "text": "אייל גולן",
+          "isCorrect": true
+        },
+        {
+          "text": "עומר אדם",
+          "isCorrect": false
+        },
+        {
+          "text": "אריק איינשטיין",
+          "isCorrect": false
+        },
+        {
+          "text": "שלמה ארצי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "בגלל איזה שורה ב'החיים שלנו תותים' תחנות רדיו חרדיות סירבו לשדר את השיר ?",
+      "answers": [
+        {
+          "text": "על הזכות לראות את מסי",
+          "isCorrect": true
+        },
+        {
+          "text": "לא הכל פררו רושה",
+          "isCorrect": false
+        },
+        {
+          "text": "הכל טפו חמסה וברוך השם",
+          "isCorrect": false
+        },
+        {
+          "text": "פתחנו פה ג'ורה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי כונה קולו של דור ?",
+      "answers": [
+        {
+          "text": "קורט קוביין",
+          "isCorrect": true
+        },
+        {
+          "text": "פרדי מרקורי",
+          "isCorrect": false
+        },
+        {
+          "text": "פול מקרטני",
+          "isCorrect": false
+        },
+        {
+          "text": "בון ג'ובי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה אישיות משנות ה-90 לא מוזכרת ב'גם זה יעבור' של טונה ?",
+      "answers": [
+        {
+          "text": "אפרת רייטן",
+          "isCorrect": true
+        },
+        {
+          "text": "מיכל זוארץ",
+          "isCorrect": false
+        },
+        {
+          "text": "אייל ברקן",
+          "isCorrect": false
+        },
+        {
+          "text": "קארין אופיר",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "אלבום הבכורה של מי מהזמרות לא קרוי על שמה ?",
+      "answers": [
+        {
+          "text": "עדן בן זקן",
+          "isCorrect": true
+        },
+        {
+          "text": "ריטה",
+          "isCorrect": false
+        },
+        {
+          "text": "ריקי גל",
+          "isCorrect": false
+        },
+        {
+          "text": "מירי מסיקה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי לא הלך לעולמו ב 2018 ?",
+      "answers": [
+        {
+          "text": "לאונרד כהן",
+          "isCorrect": true
+        },
+        {
+          "text": "אביצ'י",
+          "isCorrect": false
+        },
+        {
+          "text": "ארית'ה פרנקלין",
+          "isCorrect": false
+        },
+        {
+          "text": "מק מילר",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי לא שר על פרדס חנה ?",
+      "answers": [
+        {
+          "text": "עידן עמדי",
+          "isCorrect": true
+        },
+        {
+          "text": "אהוד בנאי",
+          "isCorrect": false
+        },
+        {
+          "text": "אברהם טל",
+          "isCorrect": false
+        },
+        {
+          "text": "חנן בן ארי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה קליפ מחזיק בשיא הצפיות ביוטיוב ?",
+      "answers": [
+        {
+          "text": "baby shark",
+          "isCorrect": true
+        },
+        {
+          "text": "despacito",
+          "isCorrect": false
+        },
+        {
+          "text": "shape of you",
+          "isCorrect": false
+        },
+        {
+          "text": "gangam style",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהי בירת אוסטרליה ?",
+      "answers": [
+        {
+          "text": "קנברה",
+          "isCorrect": true
+        },
+        {
+          "text": "סידני",
+          "isCorrect": false
+        },
+        {
+          "text": "וינה",
+          "isCorrect": false
+        },
+        {
+          "text": "טורונטו",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזו שנה יצא הסרט הטיטניק ?",
+      "answers": [
+        {
+          "text": "1997",
+          "isCorrect": true
+        },
+        {
+          "text": "1998",
+          "isCorrect": false
+        },
+        {
+          "text": "1996",
+          "isCorrect": false
+        },
+        {
+          "text": "1995",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי מהיונקים הבאים הוא היחידי שלא יכול לקפוץ ?",
+      "answers": [
+        {
+          "text": "פיל",
+          "isCorrect": true
+        },
+        {
+          "text": "קרנף",
+          "isCorrect": false
+        },
+        {
+          "text": "ג'ירף",
+          "isCorrect": false
+        },
+        {
+          "text": "היפופוטם",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי מבין הבאים לא זכה ב'פרמייר ליג' ?",
+      "answers": [
+        {
+          "text": "סטיבן ג'רארד",
+          "isCorrect": true
+        },
+        {
+          "text": "פרנק למפארד",
+          "isCorrect": false
+        },
+        {
+          "text": "פול סקולס",
+          "isCorrect": false
+        },
+        {
+          "text": "קווין דה בראונה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מאיזו מדינה קיבלה ארה''ב את פסל החירות במתנה ?",
+      "answers": [
+        {
+          "text": "צרפת",
+          "isCorrect": true
+        },
+        {
+          "text": "אנגליה",
+          "isCorrect": false
+        },
+        {
+          "text": "ספרד",
+          "isCorrect": false
+        },
+        {
+          "text": "שוודיה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מול איזו קבוצה שיחק מייקל ג'ורדן בגמר האחרון שלו ?",
+      "answers": [
+        {
+          "text": "יוטה ג'אז",
+          "isCorrect": true
+        },
+        {
+          "text": "לוס אנג'לס לייקרס",
+          "isCorrect": false
+        },
+        {
+          "text": "בוסטון סלטיקס",
+          "isCorrect": false
+        },
+        {
+          "text": "מיאמי היט",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מלבד לבאר שבע היכן עוד נמצאת המכללה 'סמי שמעון' ?",
+      "answers": [
+        {
+          "text": "אשדוד",
+          "isCorrect": true
+        },
+        {
+          "text": "תל אביב",
+          "isCorrect": false
+        },
+        {
+          "text": "ראשון לציון",
+          "isCorrect": false
+        },
+        {
+          "text": "פתח תקווה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזו מבין הקבוצות הבאות הייתה בבעלותו של ארקדי גאידמק ?",
+      "answers": [
+        {
+          "text": "בית''ר ירושלים",
+          "isCorrect": true
+        },
+        {
+          "text": "הפועל באר שבע",
+          "isCorrect": false
+        },
+        {
+          "text": "מכבי תל אביב",
+          "isCorrect": false
+        },
+        {
+          "text": "הפועל חיפה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי מבין הבאים לא שיחק באושן 11 ?",
+      "answers": [
+        {
+          "text": "ליאונרדו דיקפריו",
+          "isCorrect": true
+        },
+        {
+          "text": "ג'ורג' קלוני",
+          "isCorrect": false
+        },
+        {
+          "text": "מאט דיימון",
+          "isCorrect": false
+        },
+        {
+          "text": "בראד פיט",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "כמה עצמות יש בגוף האדם ?",
+      "answers": [
+        {
+          "text": "206",
+          "isCorrect": true
+        },
+        {
+          "text": "132",
+          "isCorrect": false
+        },
+        {
+          "text": "500",
+          "isCorrect": false
+        },
+        {
+          "text": "56",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזו עיר התקיימה האולימפיאדה של 2012 ?",
+      "answers": [
+        {
+          "text": "לונדון",
+          "isCorrect": true
+        },
+        {
+          "text": "פריז",
+          "isCorrect": false
+        },
+        {
+          "text": "וושינגטון",
+          "isCorrect": false
+        },
+        {
+          "text": "טוקיו",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "בסדרה 'רמזור', על שם מי ירדנה הילדה של אמיר קרויה ?",
+      "answers": [
+        {
+          "text": "על שם הכלבה שנדרסה",
+          "isCorrect": true
+        },
+        {
+          "text": "על שם סבתא של טלי",
+          "isCorrect": false
+        },
+        {
+          "text": "על שם אמא של אמיר",
+          "isCorrect": false
+        },
+        {
+          "text": "על שם הדולה שעזרה בלידה של ירדנה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "לפני 'טרנר' מה היה האיצטדיון של באר שבע ?",
+      "answers": [
+        {
+          "text": "וסרמיל",
+          "isCorrect": true
+        },
+        {
+          "text": "טדי",
+          "isCorrect": false
+        },
+        {
+          "text": "הקונכייה",
+          "isCorrect": false
+        },
+        {
+          "text": "סמי עופר",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי מבין הבאים מבוגר יותר ?",
+      "answers": [
+        {
+          "text": "ז'אן קלוד ואן דאם",
+          "isCorrect": true
+        },
+        {
+          "text": "ג'ון בון ג'ובי",
+          "isCorrect": false
+        },
+        {
+          "text": "ג'וני דפ",
+          "isCorrect": false
+        },
+        {
+          "text": "ג'ורג' קלוני",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי מבין השחקנים הבאים נולדו באותו היום ?",
+      "answers": [
+        {
+          "text": "רונאלדו וניימאר",
+          "isCorrect": true
+        },
+        {
+          "text": "מסי וסוארס",
+          "isCorrect": false
+        },
+        {
+          "text": "צ'אבי ואינייסטה",
+          "isCorrect": false
+        },
+        {
+          "text": "אמבפה והנרי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה מבין הדגמים הבאים לא שייך לחברת אופל ?",
+      "answers": [
+        {
+          "text": "קוויד",
+          "isCorrect": true
+        },
+        {
+          "text": "זאפירה לייף",
+          "isCorrect": false
+        },
+        {
+          "text": "אינסיגניה",
+          "isCorrect": false
+        },
+        {
+          "text": "מוקה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "כיצד ניתן לדעת את גילו של הסוס ?",
+      "answers": [
+        {
+          "text": "לפי השיניים",
+          "isCorrect": true
+        },
+        {
+          "text": "לפי אורך הזנב",
+          "isCorrect": false
+        },
+        {
+          "text": "לפי בהירות העיניים",
+          "isCorrect": false
+        },
+        {
+          "text": "לפי הפרסות",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו הנחש הכי מהיר בעולם ?",
+      "answers": [
+        {
+          "text": "עכסן עכני",
+          "isCorrect": true
+        },
+        {
+          "text": "קוברה",
+          "isCorrect": false
+        },
+        {
+          "text": "אנקונדה",
+          "isCorrect": false
+        },
+        {
+          "text": "בלאק ממבה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "ב 2022 איזו חברה היתה בעלת הרווח הגדול ביותר ?",
+      "answers": [
+        {
+          "text": "אפל",
+          "isCorrect": true
+        },
+        {
+          "text": "מייקרוסופט",
+          "isCorrect": false
+        },
+        {
+          "text": "אמאזון",
+          "isCorrect": false
+        },
+        {
+          "text": "טסלה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזו חייה ידוע בנשיכה החזקה ביותר בעולם ?",
+      "answers": [
+        {
+          "text": "תנין היאור",
+          "isCorrect": true
+        },
+        {
+          "text": "היפופוטם",
+          "isCorrect": false
+        },
+        {
+          "text": "צבוע",
+          "isCorrect": false
+        },
+        {
+          "text": "דב גריזלי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי הסופר המתורגם ביותר בכל הזמנים ?",
+      "answers": [
+        {
+          "text": "אגתה כריסטי",
+          "isCorrect": true
+        },
+        {
+          "text": "ויליאם שייקספיר",
+          "isCorrect": false
+        },
+        {
+          "text": "עמוס עוז",
+          "isCorrect": false
+        },
+        {
+          "text": "ג'יי קיי רולינג",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו המאכל היחיד שלעולם לא מתקלקל ?",
+      "answers": [
+        {
+          "text": "דבש",
+          "isCorrect": true
+        },
+        {
+          "text": "אורז",
+          "isCorrect": false
+        },
+        {
+          "text": "תירס",
+          "isCorrect": false
+        },
+        {
+          "text": "טחינה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזו עיר היא הכי עתיקה בעולם ?",
+      "answers": [
+        {
+          "text": "דמשק",
+          "isCorrect": true
+        },
+        {
+          "text": "ירושלים",
+          "isCorrect": false
+        },
+        {
+          "text": "אתונה",
+          "isCorrect": false
+        },
+        {
+          "text": "רומא",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזו מדינה , החד קרן היא החייה הלאומית שלה ?",
+      "answers": [
+        {
+          "text": "סקוטלנד",
+          "isCorrect": true
+        },
+        {
+          "text": "שוודיה",
+          "isCorrect": false
+        },
+        {
+          "text": "בולגרייה",
+          "isCorrect": false
+        },
+        {
+          "text": "צפון קוריאה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו שמו של הריקוד הארגנטינאי המסורתי ?",
+      "answers": [
+        {
+          "text": "טנגו",
+          "isCorrect": true
+        },
+        {
+          "text": "סלסה",
+          "isCorrect": false
+        },
+        {
+          "text": "סמבה",
+          "isCorrect": false
+        },
+        {
+          "text": "רומבה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "כמה כדורים יש על השולחן במשחק ביליארד ?",
+      "answers": [
+        {
+          "text": "16",
+          "isCorrect": true
+        },
+        {
+          "text": "15",
+          "isCorrect": false
+        },
+        {
+          "text": "13",
+          "isCorrect": false
+        },
+        {
+          "text": "10",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "כמה קומות יש למגדל אייפל ?",
+      "answers": [
+        {
+          "text": "3",
+          "isCorrect": true
+        },
+        {
+          "text": "4",
+          "isCorrect": false
+        },
+        {
+          "text": "5",
+          "isCorrect": false
+        },
+        {
+          "text": "10",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מה שמה של הציוויליזציה האנושית הראשונה ?",
+      "answers": [
+        {
+          "text": "מסופוטמית",
+          "isCorrect": true
+        },
+        {
+          "text": "מצרית",
+          "isCorrect": false
+        },
+        {
+          "text": "בבלית",
+          "isCorrect": false
+        },
+        {
+          "text": "אינדית",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזה יצור ימי השתמשו לצורכי מלחמה ?",
+      "answers": [
+        {
+          "text": "דולפינים",
+          "isCorrect": true
+        },
+        {
+          "text": "כרישים",
+          "isCorrect": false
+        },
+        {
+          "text": "לוויתנים",
+          "isCorrect": false
+        },
+        {
+          "text": "מדוזות",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "היכן התקיימה אולימפיאדת 2016 ?",
+      "answers": [
+        {
+          "text": "ברזיל",
+          "isCorrect": true
+        },
+        {
+          "text": "ארה''ב",
+          "isCorrect": false
+        },
+        {
+          "text": "רוסיה",
+          "isCorrect": false
+        },
+        {
+          "text": "צרפת",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה זמר מכונה 'מלך הפופ' ?",
+      "answers": [
+        {
+          "text": "מייקל ג'קסון",
+          "isCorrect": true
+        },
+        {
+          "text": "אלביס פרסלי",
+          "isCorrect": false
+        },
+        {
+          "text": "מדונה",
+          "isCorrect": false
+        },
+        {
+          "text": "פרדי מרקיורי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מה שם הלבוש המסורתי לגבר ביפן ?",
+      "answers": [
+        {
+          "text": "קימונו",
+          "isCorrect": true
+        },
+        {
+          "text": "האנבוק",
+          "isCorrect": false
+        },
+        {
+          "text": "סארי",
+          "isCorrect": false
+        },
+        {
+          "text": "קילט",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי היתה ראש הממשלה הראשונה של בריטניה ?",
+      "answers": [
+        {
+          "text": "מרגרט תאצ'ר",
+          "isCorrect": true
+        },
+        {
+          "text": "אנג'לה מרקל",
+          "isCorrect": false
+        },
+        {
+          "text": "תרזה מיי",
+          "isCorrect": false
+        },
+        {
+          "text": "אינדירה גנדי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו זן החתולים הגדול ביותר ?",
+      "answers": [
+        {
+          "text": "טיגריס",
+          "isCorrect": true
+        },
+        {
+          "text": "נמר",
+          "isCorrect": false
+        },
+        {
+          "text": "צ'יטה",
+          "isCorrect": false
+        },
+        {
+          "text": "אריה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזו פלנטה מכונה מאדים ?",
+      "answers": [
+        {
+          "text": "מרס",
+          "isCorrect": true
+        },
+        {
+          "text": "ונוס",
+          "isCorrect": false
+        },
+        {
+          "text": "יופיטר",
+          "isCorrect": false
+        },
+        {
+          "text": "שבתאי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי הלחין את היצירה המפורסמת 'ארבע העונות' (The Four Seasons) ?",
+      "answers": [
+        {
+          "text": "ויוואלדי",
+          "isCorrect": true
+        },
+        {
+          "text": "מוצרט",
+          "isCorrect": false
+        },
+        {
+          "text": "בטהובן",
+          "isCorrect": false
+        },
+        {
+          "text": "באך",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזו עיר נמצא אתר התיירות המפורסם 'איה סופיה' ?",
+      "answers": [
+        {
+          "text": "איסטנבול",
+          "isCorrect": true
+        },
+        {
+          "text": "רומא",
+          "isCorrect": false
+        },
+        {
+          "text": "אתונה",
+          "isCorrect": false
+        },
+        {
+          "text": "קהיר",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה נשיא ארה''ב חתם על חוק זכויות האזרח משנת 1964 ?",
+      "answers": [
+        {
+          "text": "לינדון בי ג'ונסון",
+          "isCorrect": true
+        },
+        {
+          "text": "ג'ון פ. קנדי",
+          "isCorrect": false
+        },
+        {
+          "text": "ריצ'רד ניקסון",
+          "isCorrect": false
+        },
+        {
+          "text": "דווייט ד. אייזנהאואר",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי ייסד את הבודהיזם ?",
+      "answers": [
+        {
+          "text": "סידהרתא גאוטמה",
+          "isCorrect": true
+        },
+        {
+          "text": "קונפוציוס",
+          "isCorrect": false
+        },
+        {
+          "text": "לאוזי",
+          "isCorrect": false
+        },
+        {
+          "text": "מהבירה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה מין דב יליד סין, וידוע בפרוותו השחורה לבנה המובהקת שלו ?",
+      "answers": [
+        {
+          "text": "דב פנדה",
+          "isCorrect": true
+        },
+        {
+          "text": "דב גריזלי",
+          "isCorrect": false
+        },
+        {
+          "text": "דב קוטב",
+          "isCorrect": false
+        },
+        {
+          "text": "דב חום",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איך נקרא התהליך שבו צמחים מייצרים את המזון שלהם בעצמם ?",
+      "answers": [
+        {
+          "text": "פוטוסינתזה",
+          "isCorrect": true
+        },
+        {
+          "text": "נשימה",
+          "isCorrect": false
+        },
+        {
+          "text": "טרנספירציה",
+          "isCorrect": false
+        },
+        {
+          "text": "נביטה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזה איפריה שלט הקיסר נירון ?",
+      "answers": [
+        {
+          "text": "האימפריה הרומית",
+          "isCorrect": true
+        },
+        {
+          "text": "האימפריה הביזנטית",
+          "isCorrect": false
+        },
+        {
+          "text": "האימפריה העות'מנית",
+          "isCorrect": false
+        },
+        {
+          "text": "האימפריה הפרסית",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה סופר ישראלי זכה בפרס נובל לספרות ב 1966 ?",
+      "answers": [
+        {
+          "text": "שי עגנון",
+          "isCorrect": true
+        },
+        {
+          "text": "עמוס עוז",
+          "isCorrect": false
+        },
+        {
+          "text": "דוד גרוסמן",
+          "isCorrect": false
+        },
+        {
+          "text": "א ב יהושוע",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "במיתולוגיה היוונית, מי היה אל הים ?",
+      "answers": [
+        {
+          "text": "פוסידון",
+          "isCorrect": true
+        },
+        {
+          "text": "זאוס",
+          "isCorrect": false
+        },
+        {
+          "text": "האדס",
+          "isCorrect": false
+        },
+        {
+          "text": "הרמס",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי צייר את יצירת האומנות המפורסמת 'ליל כוכבים' (Stary Night) ?",
+      "answers": [
+        {
+          "text": "וינסנט ואן גוך",
+          "isCorrect": true
+        },
+        {
+          "text": "פבלו פיקאסו",
+          "isCorrect": false
+        },
+        {
+          "text": "לאונרדו דה וינצ'י",
+          "isCorrect": false
+        },
+        {
+          "text": "קלוד מונה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהי העצם הקטנה ביותר בגוף האדם ?",
+      "answers": [
+        {
+          "text": "עצמות השמע",
+          "isCorrect": true
+        },
+        {
+          "text": "עצם הירך",
+          "isCorrect": false
+        },
+        {
+          "text": "עצם טיביה",
+          "isCorrect": false
+        },
+        {
+          "text": "עצם הרדיוס",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה שחקן גילם את הדמות ''טוני סטארק/איירון מן'' בסרטו של מארוול ?",
+      "answers": [
+        {
+          "text": "רוברט דאוני ג'וניור",
+          "isCorrect": true
+        },
+        {
+          "text": "כריס אוונס",
+          "isCorrect": false
+        },
+        {
+          "text": "כריס המסוורת'",
+          "isCorrect": false
+        },
+        {
+          "text": "מארק רופאלו",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי היה המונרך הכי ארוך בתולדות בריטניה ?",
+      "answers": [
+        {
+          "text": "המלכה אליזבת השניה",
+          "isCorrect": true
+        },
+        {
+          "text": "המלכה ויקטוריה",
+          "isCorrect": false
+        },
+        {
+          "text": "המלך הנרי השמיני",
+          "isCorrect": false
+        },
+        {
+          "text": "המלך ג'ורג' השלישי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו הערך של פאי מעוגל לשני מקומות עשרוניים ?",
+      "answers": [
+        {
+          "text": "3.14",
+          "isCorrect": true
+        },
+        {
+          "text": "3.16",
+          "isCorrect": false
+        },
+        {
+          "text": "3.18",
+          "isCorrect": false
+        },
+        {
+          "text": "3.12",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי ביים את הסרט 'התחלה' (Inception) ?",
+      "answers": [
+        {
+          "text": "כריסטופר נולאן",
+          "isCorrect": true
+        },
+        {
+          "text": "קווינטין טרנטינו",
+          "isCorrect": false
+        },
+        {
+          "text": "מרטין סרקוסזה",
+          "isCorrect": false
+        },
+        {
+          "text": "סטיבן שפילברג",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו כוכב הלכת הגדול ביותר במערכת השמש ?",
+      "answers": [
+        {
+          "text": "יופיטר",
+          "isCorrect": true
+        },
+        {
+          "text": "מאדים",
+          "isCorrect": false
+        },
+        {
+          "text": "שבתאי",
+          "isCorrect": false
+        },
+        {
+          "text": "כדור הארץ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מה הם ראשי התיבות ת''מג ?",
+      "answers": [
+        {
+          "text": "תוצר מקומי גולמי",
+          "isCorrect": true
+        },
+        {
+          "text": "תוצר מקומי גלובלי",
+          "isCorrect": false
+        },
+        {
+          "text": "תוצר מלאכותי גלובלי",
+          "isCorrect": false
+        },
+        {
+          "text": "תוצר מלאכותי גולמי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "הרומן '1984' נכתב ע''י ?",
+      "answers": [
+        {
+          "text": "ג'ורג' אורוול",
+          "isCorrect": true
+        },
+        {
+          "text": "אלדוס האקסלי",
+          "isCorrect": false
+        },
+        {
+          "text": "פ' סקוט פיצג'רלד",
+          "isCorrect": false
+        },
+        {
+          "text": "ריי ברדבורי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו המדבר הגדול בעולם ?",
+      "answers": [
+        {
+          "text": "סהרה",
+          "isCorrect": true
+        },
+        {
+          "text": "גובי",
+          "isCorrect": false
+        },
+        {
+          "text": "ערב",
+          "isCorrect": false
+        },
+        {
+          "text": "אנטארקטי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "בתחום הטכנולוגיה 'AI' מה מסמלים ראשי התיבות ?",
+      "answers": [
+        {
+          "text": "בינה מלאכותית",
+          "isCorrect": true
+        },
+        {
+          "text": "ממשק אלגוריטמי",
+          "isCorrect": false
+        },
+        {
+          "text": "היסק מלאכותי",
+          "isCorrect": false
+        },
+        {
+          "text": "מודיעין מתקדם",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזו ציוויליזציה עתיקה בנתה את מתחם המאצ'ו פיצ'ו ?",
+      "answers": [
+        {
+          "text": "אינקה",
+          "isCorrect": true
+        },
+        {
+          "text": "בני המאיה",
+          "isCorrect": false
+        },
+        {
+          "text": "האצטקים",
+          "isCorrect": false
+        },
+        {
+          "text": "מצרים",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "למי שייך האלבום 'The Dark Side of The Moon' ?",
+      "answers": [
+        {
+          "text": "פינק פלויד",
+          "isCorrect": true
+        },
+        {
+          "text": "הרולינג סטונס",
+          "isCorrect": false
+        },
+        {
+          "text": "לד זפלין",
+          "isCorrect": false
+        },
+        {
+          "text": "הביטלס",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו הסמל הכימי לזהב ?",
+      "answers": [
+        {
+          "text": "Au",
+          "isCorrect": true
+        },
+        {
+          "text": "Ag",
+          "isCorrect": false
+        },
+        {
+          "text": "Fe",
+          "isCorrect": false
+        },
+        {
+          "text": "Pt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "היצירה המפורסמת 'The Persistence of Memory' צויירה ע''י ?",
+      "answers": [
+        {
+          "text": "סלבדור דאלי",
+          "isCorrect": true
+        },
+        {
+          "text": "פבלו פיקאסו",
+          "isCorrect": false
+        },
+        {
+          "text": "וינסנט ואן גוך",
+          "isCorrect": false
+        },
+        {
+          "text": "קלוד מונה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "כמה רציחות קנוניות מיוחסות ל'ג'ק המרטש' ?",
+      "answers": [
+        {
+          "text": "5",
+          "isCorrect": true
+        },
+        {
+          "text": "3",
+          "isCorrect": false
+        },
+        {
+          "text": "4",
+          "isCorrect": false
+        },
+        {
+          "text": "6",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "בסדרת הסרטים 'הבלתי נשכחים' , מי מהבאים לא השתתף ?",
+      "answers": [
+        {
+          "text": "סטיבן סיגל",
+          "isCorrect": true
+        },
+        {
+          "text": "ברוס וויליס",
+          "isCorrect": false
+        },
+        {
+          "text": "סטיב הוסטין",
+          "isCorrect": false
+        },
+        {
+          "text": "ז'אן קלוד ואן דאם",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "בהינדואיזם, מי הוא אל ההרס ?",
+      "answers": [
+        {
+          "text": "שיווה",
+          "isCorrect": true
+        },
+        {
+          "text": "ברהמא",
+          "isCorrect": false
+        },
+        {
+          "text": "וישנו",
+          "isCorrect": false
+        },
+        {
+          "text": "גנש",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה טניסאי זכה במספר רב של תארי גראנד סלאם בודדים בהיסטוריה ?",
+      "answers": [
+        {
+          "text": "נובאק ג'וקוביץ",
+          "isCorrect": true
+        },
+        {
+          "text": "רוג'ר פדרר",
+          "isCorrect": false
+        },
+        {
+          "text": "רפאל נדאל",
+          "isCorrect": false
+        },
+        {
+          "text": "סרינה וויליאמס",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי הלחין את האורטוריה המפורסמת 'משיח' ?",
+      "answers": [
+        {
+          "text": "הנדל",
+          "isCorrect": true
+        },
+        {
+          "text": "בטהובן",
+          "isCorrect": false
+        },
+        {
+          "text": "מוצרט",
+          "isCorrect": false
+        },
+        {
+          "text": "באך",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי הנחה את התוכנית לרדת בגדול ?",
+      "answers": [
+        {
+          "text": "ציפי שביט",
+          "isCorrect": true
+        },
+        {
+          "text": "בר רפאלי",
+          "isCorrect": false
+        },
+        {
+          "text": "לוסי אהריש",
+          "isCorrect": false
+        },
+        {
+          "text": "יעל בר זוהר",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה חג יהודי מנציח את שחרור בני ישראל מעבדות מצריים העתיקה ?",
+      "answers": [
+        {
+          "text": "פסח",
+          "isCorrect": true
+        },
+        {
+          "text": "סוכות",
+          "isCorrect": false
+        },
+        {
+          "text": "כיפור",
+          "isCorrect": false
+        },
+        {
+          "text": "חנוכה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו הסמל היהודי המייצג את נוכחות האלוקית בבית המקדש בירושלים ?",
+      "answers": [
+        {
+          "text": "ארון הברית",
+          "isCorrect": true
+        },
+        {
+          "text": "ספר תורה",
+          "isCorrect": false
+        },
+        {
+          "text": "מנורה",
+          "isCorrect": false
+        },
+        {
+          "text": "מגן דוד",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי כיהן כראש ממשלת ישראל מיד לפני ואחרי כהונתה של גולדה מאיר ?",
+      "answers": [
+        {
+          "text": "לוי אשכול",
+          "isCorrect": true
+        },
+        {
+          "text": "יצחק רבין",
+          "isCorrect": false
+        },
+        {
+          "text": "משה שרת",
+          "isCorrect": false
+        },
+        {
+          "text": "מנחם בגין",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "אילו שתי מדינות תקפו את ישראל במלחמת יום הכיפורים של 1973 ?",
+      "answers": [
+        {
+          "text": "מצרים וסוריה",
+          "isCorrect": true
+        },
+        {
+          "text": "מצרים וירדן",
+          "isCorrect": false
+        },
+        {
+          "text": "סוריה ולבנון",
+          "isCorrect": false
+        },
+        {
+          "text": "עיראק ומצרים",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהי היחידה הקטנה ביותר של החומר ?",
+      "answers": [
+        {
+          "text": "קווארק",
+          "isCorrect": true
+        },
+        {
+          "text": "פרוטון",
+          "isCorrect": false
+        },
+        {
+          "text": "ניוטרון",
+          "isCorrect": false
+        },
+        {
+          "text": "אלקטרון",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזה מחזה שייקספירי מופיעה הדמות 'יאגו' ?",
+      "answers": [
+        {
+          "text": "אותלו",
+          "isCorrect": true
+        },
+        {
+          "text": "רומיאו ויוליה",
+          "isCorrect": false
+        },
+        {
+          "text": "מקבת",
+          "isCorrect": false
+        },
+        {
+          "text": "המלט",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מה המועדון השני המחזיק בהכי הרבה זכיות בליגת האלופות ?",
+      "answers": [
+        {
+          "text": "מילן",
+          "isCorrect": true
+        },
+        {
+          "text": "ליברפול",
+          "isCorrect": false
+        },
+        {
+          "text": "ברצלונה",
+          "isCorrect": false
+        },
+        {
+          "text": "באיירן מינכן",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי כיכב לצד השחקן מרטין לורנס בסרט 'בחורים רעים' ?",
+      "answers": [
+        {
+          "text": "וויל סמית",
+          "isCorrect": true
+        },
+        {
+          "text": "דנזל וושינגטון",
+          "isCorrect": false
+        },
+        {
+          "text": "מייקל בי ג'ורדן",
+          "isCorrect": false
+        },
+        {
+          "text": "קווין הארטין",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזו מדינה יש הכי הרבה אזורי זמן ?",
+      "answers": [
+        {
+          "text": "רוסיה",
+          "isCorrect": true
+        },
+        {
+          "text": "ארה''ב",
+          "isCorrect": false
+        },
+        {
+          "text": "סין",
+          "isCorrect": false
+        },
+        {
+          "text": "ברזיל",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהי 'השערת רימן' (Riemann hypothesis) ולאיזה תחום מתמטי היא שייכת ?",
+      "answers": [
+        {
+          "text": "תורת המספרים : התפלגות מספרים ראשונים",
+          "isCorrect": true
+        },
+        {
+          "text": "גיאומטריה : הוכחה לגבי משפט פיתגורס",
+          "isCorrect": false
+        },
+        {
+          "text": "חשבון : אינטגרציה ובידול",
+          "isCorrect": false
+        },
+        {
+          "text": "אלגברה : פתרון משוואות מעוקב",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי מבין השחקנים הבאים הוא יהודי ?",
+      "answers": [
+        {
+          "text": "האריסון פורד",
+          "isCorrect": true
+        },
+        {
+          "text": "ליאם ניסון",
+          "isCorrect": false
+        },
+        {
+          "text": "תום קרוז",
+          "isCorrect": false
+        },
+        {
+          "text": "בן אפלק",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי היה ראש ממשלת ישראל במהלך החתימה על הסכם אוסלו ?",
+      "answers": [
+        {
+          "text": "יצחק רבין",
+          "isCorrect": true
+        },
+        {
+          "text": "בנימין נתניהו",
+          "isCorrect": false
+        },
+        {
+          "text": "אהוד ברק",
+          "isCorrect": false
+        },
+        {
+          "text": "שמעון פרס",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איך קוראים לחקר מאובנים ?",
+      "answers": [
+        {
+          "text": "פליאונטולוגיה",
+          "isCorrect": true
+        },
+        {
+          "text": "ארכיאולוגיה",
+          "isCorrect": false
+        },
+        {
+          "text": "גיאולוגיה",
+          "isCorrect": false
+        },
+        {
+          "text": "אנתרופולוגיה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי כתב את הרומן מלחמה ושלום ?",
+      "answers": [
+        {
+          "text": "ליאו טולסטוי",
+          "isCorrect": true
+        },
+        {
+          "text": "צ'ארלס דיקנס",
+          "isCorrect": false
+        },
+        {
+          "text": "פיודור דוסטויבסקי",
+          "isCorrect": false
+        },
+        {
+          "text": "גוסטב פלובר",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "אילו מדינות בעלות גבול משותף ?",
+      "answers": [
+        {
+          "text": "קנדה וארה''ב",
+          "isCorrect": true
+        },
+        {
+          "text": "רוסיה וסין",
+          "isCorrect": false
+        },
+        {
+          "text": "ברזיל וארגנטינה",
+          "isCorrect": false
+        },
+        {
+          "text": "קזחסטן ורוסיה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי הזוכה הראשון של השרדות ישראל ?",
+      "answers": [
+        {
+          "text": "נעמה קסרי",
+          "isCorrect": true
+        },
+        {
+          "text": "דן מנו",
+          "isCorrect": false
+        },
+        {
+          "text": "נועם טור",
+          "isCorrect": false
+        },
+        {
+          "text": "נתן בשבקין",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה אירוע הוביל לתחילת מלחמת העולם הראשונה ?",
+      "answers": [
+        {
+          "text": "רצח הארכידוכס פרנץ פרדיננד",
+          "isCorrect": true
+        },
+        {
+          "text": "טביעת הלוסיטאניה",
+          "isCorrect": false
+        },
+        {
+          "text": "פלישה לפולין",
+          "isCorrect": false
+        },
+        {
+          "text": "חתימה על הסכם ורסאי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מעוגל לשני מקומות עשרוניים 'e' מהו ערכו המתמטי של הקבוע ? ",
+      "answers": [
+        {
+          "text": "2.72",
+          "isCorrect": true
+        },
+        {
+          "text": "2.81",
+          "isCorrect": false
+        },
+        {
+          "text": "3.14",
+          "isCorrect": false
+        },
+        {
+          "text": "2.62",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו האיבר הגדול ביותר בגוף האדם ?",
+      "answers": [
+        {
+          "text": "עור",
+          "isCorrect": true
+        },
+        {
+          "text": "כבד",
+          "isCorrect": false
+        },
+        {
+          "text": "לב",
+          "isCorrect": false
+        },
+        {
+          "text": "מוח",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי כתב את הרומן 'מאה שנים של בדידות' ?",
+      "answers": [
+        {
+          "text": "גביראל גרסיה מרקס",
+          "isCorrect": true
+        },
+        {
+          "text": "איזבל אלנדה",
+          "isCorrect": false
+        },
+        {
+          "text": "מריו ורגאס יוסה",
+          "isCorrect": false
+        },
+        {
+          "text": "פבלו נרודה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו האי הגדול ביותר בים התיכון ?",
+      "answers": [
+        {
+          "text": "סיציליה",
+          "isCorrect": true
+        },
+        {
+          "text": "קפריסין",
+          "isCorrect": false
+        },
+        {
+          "text": "כרתים",
+          "isCorrect": false
+        },
+        {
+          "text": "סרדיניה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "במה התאפיינה 'התקופה האפלה' שהתרחשה באירופה ?",
+      "answers": [
+        {
+          "text": "ירידה בלמידה ובידע",
+          "isCorrect": true
+        },
+        {
+          "text": "ליקוי חמה שערך 3 חודשים",
+          "isCorrect": false
+        },
+        {
+          "text": "זיהום אוויר שיצר חשכה",
+          "isCorrect": false
+        },
+        {
+          "text": "דעיכת הפיאודליזם",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "היכן התקיימה הכרזת העצמאות ?",
+      "answers": [
+        {
+          "text": "כל התשובות נכונות",
+          "isCorrect": true
+        },
+        {
+          "text": "בית דיזנגוף",
+          "isCorrect": false
+        },
+        {
+          "text": "מוזיאון ארץ ישראל",
+          "isCorrect": false
+        },
+        {
+          "text": "בית העצמאות",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "היכן הונף דגל ישראל לראשונה ?",
+      "answers": [
+        {
+          "text": "ראשון לציון",
+          "isCorrect": true
+        },
+        {
+          "text": "ירושלים",
+          "isCorrect": false
+        },
+        {
+          "text": "נס ציונה",
+          "isCorrect": false
+        },
+        {
+          "text": "תל אביב",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה כלי שחמט לא יכול לנוע בקו ישר ?",
+      "answers": [
+        {
+          "text": "רץ",
+          "isCorrect": true
+        },
+        {
+          "text": "מלך",
+          "isCorrect": false
+        },
+        {
+          "text": "מלכה",
+          "isCorrect": false
+        },
+        {
+          "text": "צריח",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "היכן נולד כריסטופר קולומבוס ?",
+      "answers": [
+        {
+          "text": "איטליה",
+          "isCorrect": true
+        },
+        {
+          "text": "ספרד",
+          "isCorrect": false
+        },
+        {
+          "text": "ארה''ב",
+          "isCorrect": false
+        },
+        {
+          "text": "צרפת",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מה מבין הבאים הוא החלקיק המרכיב את האטום ?",
+      "answers": [
+        {
+          "text": "פרוטון",
+          "isCorrect": true
+        },
+        {
+          "text": "חנקן",
+          "isCorrect": false
+        },
+        {
+          "text": "פחמן",
+          "isCorrect": false
+        },
+        {
+          "text": "אמוניה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מאיזה כוכב הגיע 'סופרמן' ?",
+      "answers": [
+        {
+          "text": "קריפטון",
+          "isCorrect": true
+        },
+        {
+          "text": "ניוטרון",
+          "isCorrect": false
+        },
+        {
+          "text": "מאדים",
+          "isCorrect": false
+        },
+        {
+          "text": "כדור הארץ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי מבין הבאות יותר מבוגרת ?",
+      "answers": [
+        {
+          "text": "נינט טייב",
+          "isCorrect": true
+        },
+        {
+          "text": "גל גדות",
+          "isCorrect": false
+        },
+        {
+          "text": "אגם רוטברג",
+          "isCorrect": false
+        },
+        {
+          "text": "בר רפאלי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איך קוראים לכלב של משפחת סימפסון ?",
+      "answers": [
+        {
+          "text": "העוזר הקטן של סנטה",
+          "isCorrect": true
+        },
+        {
+          "text": "באק",
+          "isCorrect": false
+        },
+        {
+          "text": "בריאן",
+          "isCorrect": false
+        },
+        {
+          "text": "סימפ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מה שמה הפרטי של ג.יפית ?",
+      "answers": [
+        {
+          "text": "יפית",
+          "isCorrect": true
+        },
+        {
+          "text": "גלית",
+          "isCorrect": false
+        },
+        {
+          "text": "גילה",
+          "isCorrect": false
+        },
+        {
+          "text": "גאולה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי היה הרמטכ''ל הרביעי של צה''ל ?",
+      "answers": [
+        {
+          "text": "משה דיין",
+          "isCorrect": true
+        },
+        {
+          "text": "לוי אשכול",
+          "isCorrect": false
+        },
+        {
+          "text": "יגאל ידין",
+          "isCorrect": false
+        },
+        {
+          "text": "יעקב דורי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי היחידי שהבקיע את השער של ישראל במונדיאל ?",
+      "answers": [
+        {
+          "text": "שפיגלר",
+          "isCorrect": true
+        },
+        {
+          "text": "אוחנה",
+          "isCorrect": false
+        },
+        {
+          "text": "עטר",
+          "isCorrect": false
+        },
+        {
+          "text": "מזרחי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזו גלולה צריך לקחת על מנת להיכנס ל'מטריקס' ?",
+      "answers": [
+        {
+          "text": "אדומה",
+          "isCorrect": true
+        },
+        {
+          "text": "כחולה",
+          "isCorrect": false
+        },
+        {
+          "text": "אף אחת מהן",
+          "isCorrect": false
+        },
+        {
+          "text": "שתיהן",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזה שחקן מופיע על הלוגו של ה-NBA ?",
+      "answers": [
+        {
+          "text": "ג'רי וסט",
+          "isCorrect": true
+        },
+        {
+          "text": "מייקל ג'ורדן",
+          "isCorrect": false
+        },
+        {
+          "text": "מג'יק ג'ונסון",
+          "isCorrect": false
+        },
+        {
+          "text": "לארי בירד",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מה שם האלבום הראשון של להקת היהודים ?",
+      "answers": [
+        {
+          "text": "מציאות נפרדת",
+          "isCorrect": true
+        },
+        {
+          "text": "פחד מוות",
+          "isCorrect": false
+        },
+        {
+          "text": "יותר לא",
+          "isCorrect": false
+        },
+        {
+          "text": "היהודים",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "לאיזה שבט השתייך שאול המלך ?",
+      "answers": [
+        {
+          "text": "בנימין",
+          "isCorrect": true
+        },
+        {
+          "text": "ראובן",
+          "isCorrect": false
+        },
+        {
+          "text": "יהודה",
+          "isCorrect": false
+        },
+        {
+          "text": "יששכר",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "על פי גלגל המזלות ,איזה מזל מגיע אחרי מזל מאזניים ?",
+      "answers": [
+        {
+          "text": "עקרב",
+          "isCorrect": true
+        },
+        {
+          "text": "קשת",
+          "isCorrect": false
+        },
+        {
+          "text": "בתולה",
+          "isCorrect": false
+        },
+        {
+          "text": "אריה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו סכום הזוויות במחומש ?",
+      "answers": [
+        {
+          "text": "540",
+          "isCorrect": true
+        },
+        {
+          "text": "360",
+          "isCorrect": false
+        },
+        {
+          "text": "450",
+          "isCorrect": false
+        },
+        {
+          "text": "500",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזו חיה מופיעה בלוגו של המערכת ההפעלה לינוקס ?",
+      "answers": [
+        {
+          "text": "פינגווין",
+          "isCorrect": true
+        },
+        {
+          "text": "פנדה",
+          "isCorrect": false
+        },
+        {
+          "text": "ינשוף",
+          "isCorrect": false
+        },
+        {
+          "text": "שועל",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "לאיזה ענף ספורט אין מגבלה של זמן ?",
+      "answers": [
+        {
+          "text": "טניס",
+          "isCorrect": true
+        },
+        {
+          "text": "MMA",
+          "isCorrect": false
+        },
+        {
+          "text": "הוקי קרח",
+          "isCorrect": false
+        },
+        {
+          "text": "רוגבי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו הקשר בין אסתר המלכה לבין מרדכי היהודי ?",
+      "answers": [
+        {
+          "text": "בני דודים",
+          "isCorrect": true
+        },
+        {
+          "text": "אין קשר",
+          "isCorrect": false
+        },
+        {
+          "text": "אחים",
+          "isCorrect": false
+        },
+        {
+          "text": "חברים",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מאיזה עיר נמלטו לוט ומשפחתו ?",
+      "answers": [
+        {
+          "text": "סדום ועמורה",
+          "isCorrect": true
+        },
+        {
+          "text": "מגידו",
+          "isCorrect": false
+        },
+        {
+          "text": "עקרון",
+          "isCorrect": false
+        },
+        {
+          "text": "יריחו",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "היכן הומצא משחק הלגו ?",
+      "answers": [
+        {
+          "text": "דנמרק",
+          "isCorrect": true
+        },
+        {
+          "text": "בלגיה",
+          "isCorrect": false
+        },
+        {
+          "text": "גרמניה",
+          "isCorrect": false
+        },
+        {
+          "text": "אוסטריה",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזו מדינה אינה נמצאת ביבשת אסיה ?",
+      "answers": [
+        {
+          "text": "סודן",
+          "isCorrect": true
+        },
+        {
+          "text": "תימן",
+          "isCorrect": false
+        },
+        {
+          "text": "קזחסטן",
+          "isCorrect": false
+        },
+        {
+          "text": "עומאן",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזו שנה החלה מלחמת המפרץ ?",
+      "answers": [
+        {
+          "text": "1990",
+          "isCorrect": true
+        },
+        {
+          "text": "1991",
+          "isCorrect": false
+        },
+        {
+          "text": "1989",
+          "isCorrect": false
+        },
+        {
+          "text": "1988",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי היה יושב ראש הראשון של מפלגת הליכוד ?",
+      "answers": [
+        {
+          "text": "מנחם בגין",
+          "isCorrect": true
+        },
+        {
+          "text": "ביבי נתניהו",
+          "isCorrect": false
+        },
+        {
+          "text": "יצחק שמיר",
+          "isCorrect": false
+        },
+        {
+          "text": "שמעון פרס",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "באיזה עיר נמצא הבית שבו התחבאה אנה פרנק ?",
+      "answers": [
+        {
+          "text": "אמסטרדם",
+          "isCorrect": true
+        },
+        {
+          "text": "קרקוב",
+          "isCorrect": false
+        },
+        {
+          "text": "רוטרדם",
+          "isCorrect": false
+        },
+        {
+          "text": "זלצבורג",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מה הערך של האות 'צ' בגימטריה ?",
+      "answers": [
+        {
+          "text": "90",
+          "isCorrect": true
+        },
+        {
+          "text": "80",
+          "isCorrect": false
+        },
+        {
+          "text": "70",
+          "isCorrect": false
+        },
+        {
+          "text": "110",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו המטבע המקומי של תאילנד ?",
+      "answers": [
+        {
+          "text": "באט",
+          "isCorrect": true
+        },
+        {
+          "text": "ין",
+          "isCorrect": false
+        },
+        {
+          "text": "דינר",
+          "isCorrect": false
+        },
+        {
+          "text": "יואן",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "את מי לא גילמה עלמה זק בארץ נהדרת ?",
+      "answers": [
+        {
+          "text": "אסתי",
+          "isCorrect": true
+        },
+        {
+          "text": "ספיר טורטל",
+          "isCorrect": false
+        },
+        {
+          "text": "שרה נתניהו",
+          "isCorrect": false
+        },
+        {
+          "text": "יונית לוי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "בעזרת מה הרגה יעל את סיסרא ?",
+      "answers": [
+        {
+          "text": "יתד",
+          "isCorrect": true
+        },
+        {
+          "text": "גרזן",
+          "isCorrect": false
+        },
+        {
+          "text": "רעל",
+          "isCorrect": false
+        },
+        {
+          "text": "פטיש",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איך ה' עצר את בניית מגדל בבל ?",
+      "answers": [
+        {
+          "text": "בלבל את שפתם של הבונים",
+          "isCorrect": true
+        },
+        {
+          "text": "שריפה ענקית",
+          "isCorrect": false
+        },
+        {
+          "text": "רעידת אדמה",
+          "isCorrect": false
+        },
+        {
+          "text": "מבול נוח",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מה הייתה העבודה של ניומן השכן של ג'רי סיינפלד ?",
+      "answers": [
+        {
+          "text": "דוור",
+          "isCorrect": true
+        },
+        {
+          "text": "שליח פיצה",
+          "isCorrect": false
+        },
+        {
+          "text": "רופא שיניים",
+          "isCorrect": false
+        },
+        {
+          "text": "נהג מונית",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "היכן שודרה הסדרה 'משחקי הכס' במקור ?",
+      "answers": [
+        {
+          "text": "HBO",
+          "isCorrect": true
+        },
+        {
+          "text": "NETFLIX",
+          "isCorrect": false
+        },
+        {
+          "text": "AMC",
+          "isCorrect": false
+        },
+        {
+          "text": "MTV",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "לאיזה סידרה יש יותר עונות ?",
+      "answers": [
+        {
+          "text": "משפחת סימפסון",
+          "isCorrect": true
+        },
+        {
+          "text": "איש משפחה",
+          "isCorrect": false
+        },
+        {
+          "text": "סאות' פארק",
+          "isCorrect": false
+        },
+        {
+          "text": "אבא אמריקאי",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "איזו מבין הסדרות הבאות אינה שייכת לנטפליקס ?",
+      "answers": [
+        {
+          "text": "הבנים",
+          "isCorrect": true
+        },
+        {
+          "text": "אקדמיית המטרייה",
+          "isCorrect": false
+        },
+        {
+          "text": "נרקוס",
+          "isCorrect": false
+        },
+        {
+          "text": "בית הקלפים",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "כמה שפות רשמיות יש בדרום אפריקה ?",
+      "answers": [
+        {
+          "text": "11",
+          "isCorrect": true
+        },
+        {
+          "text": "10",
+          "isCorrect": false
+        },
+        {
+          "text": "5",
+          "isCorrect": false
+        },
+        {
+          "text": "9",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מהו מספר הכביש של נתיבי איילון ?",
+      "answers": [
+        {
+          "text": "20",
+          "isCorrect": true
+        },
+        {
+          "text": "1",
+          "isCorrect": false
+        },
+        {
+          "text": "431",
+          "isCorrect": false
+        },
+        {
+          "text": "22",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "מי היה ראש הממשלה שחתם על הסכם השלום עם מצרים ?",
+      "answers": [
+        {
+          "text": "מנחם בגין",
+          "isCorrect": true
+        },
+        {
+          "text": "יצחק שמיר",
+          "isCorrect": false
+        },
+        {
+          "text": "יצחק רבין",
+          "isCorrect": false
+        },
+        {
+          "text": "שמעון פרס",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "בסרט 'להציל את הטוראי ראיין' ,מי גילם את 'הטוראי ראיין' ?",
+      "answers": [
+        {
+          "text": "מאט דיימון",
+          "isCorrect": true
+        },
+        {
+          "text": "טום הנקס",
+          "isCorrect": false
+        },
+        {
+          "text": "מאט דילון",
+          "isCorrect": false
+        },
+        {
+          "text": "וין דיזל",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
