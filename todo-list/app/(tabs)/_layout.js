@@ -2,6 +2,7 @@ import { Tabs } from "expo-router";
 import { StyleSheet } from "react-native";
 import { FontAwesome } from "@expo/vector-icons";
 import { AntDesign } from "@expo/vector-icons";
+import { MaterialCommunityIcons } from '@expo/vector-icons';
 
 const tabScreenHandler = (name, iconFcused, iconUnFoccused) => {
   return (
@@ -32,8 +33,8 @@ export default function Layout() {
       )}
       {tabScreenHandler(
         "profile",
-        <AntDesign name="profile" size={24} color="#7CB9E8" />,
-        <AntDesign name="profile" size={24} color="black" />
+        <MaterialCommunityIcons name="card-account-details-outline" size={24} color="#7CB9E8" />,
+        <MaterialCommunityIcons name="card-account-details-outline" size={24} color="black" />
       )}
     </Tabs>
   );
