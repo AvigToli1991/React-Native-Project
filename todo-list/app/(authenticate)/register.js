@@ -75,7 +75,7 @@ const register = () => {
 
           {/*login btn */}
           <Pressable style={styles.loginBtn} onPress={()=>router.replace('/login')}>
-            <Text style={styles.btnLoginTxt}>ALready have an account ? Log in</Text>
+            <Text style={styles.btnLoginTxt}>Already have an account ? Log in</Text>
           </Pressable>
           
         
