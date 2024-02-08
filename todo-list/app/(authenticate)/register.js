@@ -9,38 +9,49 @@ import {
 } from "react-native";
 import React, { useState } from "react";
 import { MaterialIcons } from "@expo/vector-icons";
-import { AntDesign } from '@expo/vector-icons';
+import { AntDesign, Ionicons } from "@expo/vector-icons";
 import { useRouter } from "expo-router";
 
 const register = () => {
- 
+  const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const router = useRouter();
   return (
     <SafeAreaView style={styles.SafeAreaView}>
-      
       {/*title*/}
       <View style={styles.titleContainer}>
         <Text style={styles.title}>TODO-LIST TRACKER</Text>
       </View>
-      
+
       {/*view that avoid from the keyboard hight*/}
       <KeyboardAvoidingView>
-        
         {/*subtitle*/}
         <View style={styles.subTitleContainer}>
           <Text style={styles.subTitle}>Register to your account</Text>
         </View>
-       
-        {/*input email and password container*/}
-        <View style={styles.emailAndPassContainer}>
-          
+
+        {/*input email and password and name container*/}
+        <View style={styles.emailAndPassAndNameContainer}>
+          {/*input name container*/}
+          <View style={styles.inputContainer}>
+            {/*input name logo*/}
+            <Ionicons name="person" size={24} color="gray" />
+
+            {/*Input text of name */}
+            <TextInput
+              style={styles.Input}
+              placeholder="Enter your name"
+              value={name}
+              onChangeText={(text) => setName(text)}
+              secureTextEntry={true}
+            />
+          </View>
           {/*input email container*/}
           <View style={styles.inputContainer}>
             {/*input email logo*/}
             <MaterialIcons name="email" size={24} color="gray" />
-            
+
             {/*Input text of email */}
             <TextInput
               style={styles.Input}
@@ -50,12 +61,11 @@ const register = () => {
             />
           </View>
 
-           {/*input password container*/}
+          {/*input password container*/}
           <View style={styles.inputContainer}>
-            
             {/*input password logo*/}
             <AntDesign name="lock1" size={24} color="gray" />
-            
+
             {/*Input text of password */}
             <TextInput
               style={styles.Input}
@@ -65,20 +75,22 @@ const register = () => {
               secureTextEntry={true}
             />
           </View>
-        
         </View>
 
-          {/*register btn*/}
-          <Pressable style={styles.regisBtn}>
-            <Text style={styles.btnRegTxt}>Register</Text>
-          </Pressable>
+        {/*register btn*/}
+        <Pressable style={styles.regisBtn}>
+          <Text style={styles.btnRegTxt}>Register</Text>
+        </Pressable>
 
-          {/*login btn */}
-          <Pressable style={styles.loginBtn} onPress={()=>router.replace('/login')}>
-            <Text style={styles.btnLoginTxt}>ALready have an account ? Log in</Text>
-          </Pressable>
-          
-        
+        {/*login btn */}
+        <Pressable
+          style={styles.loginBtn}
+          onPress={() => router.replace("/login")}
+        >
+          <Text style={styles.btnLoginTxt}>
+            Already have an account ? Log in
+          </Text>
+        </Pressable>
       </KeyboardAvoidingView>
     </SafeAreaView>
   );
@@ -115,9 +127,9 @@ const styles = StyleSheet.create({
     fontSize: 17,
     textAlign: "left",
   },
-  emailAndPassContainer: {
+  emailAndPassAndNameContainer: {
     marginTop: 80,
-    marginBottom:60,
+    marginBottom: 60,
   },
   inputContainer: {
     flexDirection: "row",
@@ -128,28 +140,26 @@ const styles = StyleSheet.create({
     marginTop: 20,
     gap: 10,
   },
-  regisBtn:{
-    backgroundColor:"#6699CC",
-    width:200,
-    padding:15,
-    borderRadius:6,
-    marginLeft:"auto",
-    marginRight:"auto",
-
+  regisBtn: {
+    backgroundColor: "#6699CC",
+    width: 200,
+    padding: 15,
+    borderRadius: 6,
+    marginLeft: "auto",
+    marginRight: "auto",
   },
-  btnRegTxt:{
-    textAlign:"center",
-    color:"white",
-    fontWeight:"bold",
-    fontSize:16,
+  btnRegTxt: {
+    textAlign: "center",
+    color: "white",
+    fontWeight: "bold",
+    fontSize: 16,
   },
-  loginBtn:{
-    marginTop:15,
+  loginBtn: {
+    marginTop: 15,
   },
-  btnLoginTxt:{
-    textAlign:"center",
-    fontSize:15,
-    color:'gray',
-
-  }
+  btnLoginTxt: {
+    textAlign: "center",
+    fontSize: 15,
+    color: "gray",
+  },
 });

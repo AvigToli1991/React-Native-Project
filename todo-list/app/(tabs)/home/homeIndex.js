@@ -86,9 +86,9 @@ const styles = StyleSheet.create({
     padding: 10,
     alignItems: "center",
     justifyContent: "center",
-    marginTop:130,
-    marginLeft:"auto",
-    marginRight:"auto",
+    marginTop: 130,
+    marginLeft: "auto",
+    marginRight: "auto",
   },
   image: {
     width: 200,
@@ -100,7 +100,7 @@ const styles = StyleSheet.create({
     marginTop: 15,
     fontWeight: "600",
   },
-  addTaskBtn:{
+  addTaskBtn: {
     marginTop: 15,
-  }
+  },
 });
