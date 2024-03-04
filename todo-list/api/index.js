@@ -1,17 +1,26 @@
-const express = require("express"); // הסביבה איתה עובדים לצורך טיפול בבקשות כמו 'GET' ו 'POST'
-const bodyParser = require("body-parser"); // חילוץ המידע מהסביבה
-const mongoose = require("mongoose"); // המאגר נתונים שלנו שאיתו ה express יעבוד
-const crypto = require("crypto"); // מודל ההצפנה של נוד ג'יי אסס לצורך הצפנת הסיסמאות וכדומא
+const express = require("express");
+const bodyParser = require("body-parser");
+const mongoose = require("mongoose");
+const crypto = require("crypto");
 
 const app = express();
 const port = 3000;
-const cors = require("cors"); // על מנת לאבטח שהשרת יגיב כראוי מבקשות צולבות מכל מיני מקורות CORS ייבוא תוכנת ביינים
+const cors = require("cors");
 app.use(cors());
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
-mongoose //התחברות למאגר הדטה בייס
+let secretKey; // Declare secretKey variable
+
+const generateSecretKey = () => {
+  secretKey = crypto.randomBytes(32).toString("hex"); // Initialize secretKey
+  return secretKey;
+};
+
+generateSecretKey(); // Call generateSecretKey to initialize secretKey
+
+mongoose
   .connect(
     "mongodb+srv://avigtoli1991:aXHAjHza0Df5EKRp@cluster0.vbn2ikb.mongodb.net/"
   )
@@ -19,11 +28,10 @@ mongoose //התחברות למאגר הדטה בייס
     console.log("Connected to MongoDB!");
   })
   .catch((error) => {
-    console.log("Error connectin to MongoDB!", error);
+    console.log("Error connecting to MongoDB!", error);
   });
 
 app.listen(port, () => {
-  // בקשה מהסביבה בה אנו משתמשים להאזין לפורט שלנו בשרת
   console.log("Server is running on port 3000");
 });
 
@@ -53,18 +61,12 @@ app.post("/register", async (req, res) => {
     res.status(500).json({ message: "Registration failed" });
   }
 });
-const generateSecretKey = () => {
-  secretKey = crypto.randomBytes(32).toString("hex");
-  return secretKey;
-};
-
-const secretKey = generateSecretKey();
 
 app.post("/login", async (req, res) => {
   try {
     const { email, password } = req.body;
 
-    //check if user is existing
+    //check if user exists
     const user = await User.findOne({ email });
     if (!user) {
       return res.status(401).json({ message: "Invalid email" });

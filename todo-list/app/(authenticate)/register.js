@@ -6,17 +6,40 @@ import {
   KeyboardAvoidingView,
   TextInput,
   Pressable,
+  Alert,
 } from "react-native";
 import React, { useState } from "react";
 import { MaterialIcons } from "@expo/vector-icons";
 import { AntDesign, Ionicons } from "@expo/vector-icons";
 import { useRouter } from "expo-router";
+import axios from 'axios';
 
 const register = () => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const router = useRouter();
+
+  const handleRegister = () => {
+    const user = {
+      name:name,
+      email:email,
+      password:password
+    }
+
+     axios.post("http://172.20.10.8:3000/register",user).then((response)=>{
+      console.log(response);
+      Alert.alert("Registrition successfuly","You have been registered successfuly");
+      setEmail("");
+      setName("");
+      setPassword("");
+    }).catch((error)=>{
+      Alert.alert("Registrition Failed","an error acurred during registration");
+      console.log("error",error);
+    });
+
+    () => router.replace("/login");
+  }
   return (
     <SafeAreaView style={styles.SafeAreaView}>
       {/*title*/}
@@ -44,7 +67,6 @@ const register = () => {
               placeholder="Enter your name"
               value={name}
               onChangeText={(text) => setName(text)}
-              secureTextEntry={true}
             />
           </View>
           {/*input email container*/}
@@ -78,7 +100,7 @@ const register = () => {
         </View>
 
         {/*register btn*/}
-        <Pressable style={styles.regisBtn}>
+        <Pressable style={styles.regisBtn} onPress={handleRegister}>
           <Text style={styles.btnRegTxt}>Register</Text>
         </Pressable>
 
